@@ -706,19 +706,19 @@
 				}
 			
 				#work .row.images.inactive .image.from-left {
-					left: -20em;
+					left: -50px;
 				}
 			
 				#work .row.images.inactive .image.from-right {
-					left: 20em;
+					right: 50px;
 				}
 			
 				#work .row.images.inactive .image.from-top {
-					top: -7em;
+					top: -10px;
 				}
 			
 				#work .row.images.inactive .image.from-bottom {
-					top: 7em;
+					bottom: 10px;
 				}
 			
 /*********************************************************************************/
