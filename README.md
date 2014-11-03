@@ -1,4 +1,3 @@
-kkowalsky.github.io
-===================
-
-my website
+theme
+=====
+bootstrap portfolio website for myself
