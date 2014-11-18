@@ -55,9 +55,9 @@ function setMap(){
     
     //uses queue.js to parallelize asynchronous data loading
     queue()
-        .defer(d3.csv, "data/data.csv") //load attributes from csv
-        .defer(d3.json, "data/output.json") //load geometry from topojson
-        .defer(d3.json, "data/ca.json")
+        .defer(d3.csv, "d3%20lab/data/data.csv") //load attributes from csv
+        .defer(d3.json, "d3%20lab/data/output.json") //load geometry from topojson
+        .defer(d3.json, "d3%20lab/data/ca.json")
         .await(callback); //trigger callback function once data is loaded
     
     //retrieve and process json file and data
