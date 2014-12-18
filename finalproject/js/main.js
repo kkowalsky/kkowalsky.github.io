@@ -156,13 +156,13 @@ function setMap(){
     
     queue()
         .defer(d3.csv, "finalproject/data/grades.csv")
-        .defer(d3.csv, "finalproject/data/prohibitedAfter.csv")
+        .defer(d3.csv, "finalproject/data/prohibitedafter.csv")
         .defer(d3.csv, "finalproject/data/counseling.csv")
-        .defer(d3.csv, "finalproject/data/waitingPeriod.csv")
+        .defer(d3.csv, "finalproject/data/waitingperiod.csv")
         .defer(d3.csv, "finalproject/data/consent.csv")
         .defer(d3.csv, "finalproject/data/ultrasound.csv")
         .defer(d3.json, "finalproject/data/usa.topojson")
-        .defer(d3.json, "finalproject/data/CPCS.geojson")
+        .defer(d3.json, "finalproject/data/CPCs.geojson")
         .defer(d3.json, "finalproject/data/AbortionProviders.geojson")
         .await(callback);
     
