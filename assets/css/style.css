@@ -191,8 +191,9 @@ h1, h2, h3, h4, h5, h6 {
 .project {
     margin-top: -10px;
 }
+/*
 #aboutwrap {	
-	background: url(../img/Katie.png) no-repeat center top;
+	background: url(../img/intro.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -211,6 +212,7 @@ h1, h2, h3, h4, h5, h6 {
     -o-background-size: cover;
     background-size: cover;
 }
+*/
 
 /* Gallery */
 .gallery {
