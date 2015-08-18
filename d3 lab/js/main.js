@@ -87,7 +87,7 @@ function setMap(){
                 };
             };  
         };
-        console.log(usa);
+        console.log(output.objects);
         //add usa geometry
         var states = map.append("path") //create SVG path element
             .datum(topojson.feature(output, output.objects.usa))
