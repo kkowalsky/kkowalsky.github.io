@@ -1,14 +1,3 @@
-/*
- * Author: Carlos Alvarez
- * URL: http://Alvarez.is
- *
- * Project Name: NYC Design
- * Version: 1.0
- * Date: 04-20-2014
- * URL: 
- */
-
-
 /* ==========================================================================
    Base Styles, Bootstrap Modifications & Fonts Import
    ========================================================================== */
@@ -191,39 +180,17 @@ h1, h2, h3, h4, h5, h6 {
 .project {
     margin-top: -10px;
 }
-/*
-#aboutwrap {	
-	background: url(../img/intro.jpg) no-repeat center top;
-	margin-top: -70px;
-	padding-top: 250px;
-	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 550px;
-	width: 100%;
-	
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-*/
-
-/* Gallery */
-.gallery {
+/* Portfolio page*/
+.portfolio {
 	margin-top: 30px;
 }
 
-.gallery img{
+.portfolio img{
     height: 275px;
     width: 275px;
 }
 
-.gallery img:hover {
+.portfolio img:hover {
 	opacity: 0.4;
 }
