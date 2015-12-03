@@ -246,8 +246,6 @@ $(document).ready(function(){
                 //sets the radius of the symbol and binds the popup to a location 
                 layer.setRadius(radius);
                 layer.bindPopup(popupContent, {offset: new L.Point(0, -radius) });
-              
-
         });
         //this creates a popup to occur on the min circle for the specific place and time
         cities.eachLayer(function(layer){
