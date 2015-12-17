@@ -12,7 +12,7 @@
 }
 
 ::selection {
-    background: #666699;
+    background: #6BB9F0;
     color: #151515;
     text-shadow: none;
 }
@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #666699;
+	color: #6BB9F0;
 }
 
 /* ==========================================================================
@@ -153,6 +153,10 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: #151515;
 }
 
+#footerwrap h4 {
+	color:#BDC3C7;
+}
+
 #footerwrap p {
 	color: #5b5b5b;
 	margin-left: 10px;
@@ -189,8 +193,16 @@ h1, h2, h3, h4, h5, h6 {
 .portfolio img{
     height: 275px;
     width: 275px;
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	moz-filter: grayscale(100%);
+	transition: all 1s;
 }
 
 .portfolio img:hover {
-	opacity: 0.4;
+	/*opacity: 0.4;*/
+	-webkit-filter: grayscale(0%);
+	filter: grayscale(0%);
+	moz-filter: grayscale(0%);
+
 }
