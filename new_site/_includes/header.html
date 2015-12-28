@@ -1,13 +1,13 @@
 <!--- new header --->
 <header>
-  <nav class="navbar navbar-default navbar-fixed-top main-navbar site-header"> <!-- Creates the navbar -->
+  <nav class="navbar site-nav navbar-default navbar-fixed-top main-navbar site-header">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed navbar-menu-button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
           <span class="sr-only">Toggle navigation</span>
           <span class="navbar-menu">Menu</span>
         </button>
-        <a class="site-title navbar-brand" href="{{ site.baseurl }}/"><img alt="brand" src="/assets/img/brand.png" style="width:50%;"></a>
+       <a class="site-title navbar-brand" href="{{ site.baseurl }}/"><img alt="brand" src="/assets/img/brand.png" style="width:40%; margin-top: -1%;"></a>
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
@@ -16,9 +16,9 @@
           <li><a {% if page.url contains 'blog' %}class="current-page"{% endif %} href="{{site.baseurl}}/blog">Blog</a></li>
           <li><a {% if page.url contains 'contact' %}class="current-page"{% endif %} href="{{site.baseurl}}/contact">Contact</a></li>
         </ul>
-      </div> <!-- end .navbar-collapse -->
-    </div> <!-- end .container -->
-  </nav> <!-- end navigation bar -->
+      </div>
+    </div>
+  </nav>
 
   <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
   <script type="text/javascript" src="{{ site.baseurl }}/js/bootstrap.js"></script>

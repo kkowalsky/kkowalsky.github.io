@@ -1,6 +1,10 @@
 /**
  * Reset some basic elements
  */
+h1, h2, h3 {
+    color: $text-color;
+}
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -14,13 +18,14 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    background-image: url(" ../assets/img/cubes.png");
+    background-repeat: repeat;
 }
 
 /**
@@ -31,7 +36,6 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
-    font: "Bebas Neue", Bebas, sans-serif;
 }
 
 /**
@@ -82,7 +86,6 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
-    font: "Bebas Neue", Bebas, sans-serif;
 }
 
 
@@ -93,14 +96,20 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
-    
-    &:hover {
-        color: $green-color;
-        text-decoration: underline;
-    }
 }
 
+a:link {
+    color: $brand-color;
+}
 
+a:visited {
+    color: $brand-color;
+}
+
+a:hover {
+    color: $green-color !important;
+    text-decoration: underline !important;
+}
 
 /**
  * Blockquotes
@@ -126,7 +135,7 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $text-color;
     border-radius: 3px;
     background-color: #eef;
 }

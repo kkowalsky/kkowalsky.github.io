@@ -7,7 +7,7 @@
     background: -o-linear-gradient(right, #c1cd23 , #29abe2); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(right, #c1cd23 , #29abe2); /* For Firefox 3.6 to 15 */
     background: linear-gradient(to right, #c1cd23 , #29abe2); /* Standard syntax (must be last) */
-    min-height: 56px;
+    min-height: 60px !important;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -31,9 +31,20 @@
     }
 }
 
+.navbar-default .navbar-nav > li > a {
+    color: $white !important;
+    
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+    color: $text-color !important;
+    text-decoration: none !important;
+}
+
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 50px;
+    padding-bottom: 10px;
 
     .menu-icon {
         display: none;
@@ -106,12 +117,34 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding-top: ($spacing-unit/5);
+    background-color: #fcfcfc;
+    
+    a {
+        color: $green-color;
+        text-decoration: none;
+    }
+    
+    a:link {
+        color: $green-color;
+    }
+
+    a:visited {
+        color: $green-color;
+    }
+
+    a:hover {
+        color: $brand-color !important;
+        text-decoration: underline;
+    }
+
+    a:active {
+        color: $green-color;
+    }
 }
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
 }
 
 .contact-list,
@@ -122,30 +155,29 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $text-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
 
 .footer-col {
     float: left;
-    margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(95% - (#{$spacing-unit} / 2));
+    width:         calc(95% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(90% - (#{$spacing-unit} / 2));
+    width:         calc(90% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(95% - (#{$spacing-unit} / 2));
+    width:         calc(95% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -175,7 +207,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: ($spacing-unit*2) 0 ($spacing-unit/4);
 }
 
 .page-heading {
@@ -225,7 +257,7 @@
 
     h2 {
         font-size: 32px;
-
+        
         @include media-query($on-laptop) {
             font-size: 28px;
         }
@@ -233,7 +265,7 @@
 
     h3 {
         font-size: 26px;
-
+        
         @include media-query($on-laptop) {
             font-size: 22px;
         }
