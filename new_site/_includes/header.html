@@ -7,14 +7,15 @@
           <span class="sr-only">Toggle navigation</span>
           <span class="navbar-menu">Menu</span>
         </button>
-       <a class="site-title navbar-brand" href="{{ site.baseurl }}/"><img alt="brand" src="/assets/img/brand.png" style="width:40%; margin-top: -1%;"></a>
+       <a class="site-title navbar-brand" href="{{ site.baseurl }}/"><img alt="brand" src="/assets/img/brand.png" style="width:40%; margin-top: -1.5%;"></a>
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li><a {% if page.url contains 'about' %}class="current-page"{% endif %} href="{{site.baseurl}}/about">About</a></li>
-          <li><a {% if page.url contains 'portfolio' %}class="current-page"{% endif %} href="{{site.baseurl}}/portfolio">Work</a></li>
-          <li><a {% if page.url contains 'blog' %}class="current-page"{% endif %} href="{{site.baseurl}}/blog">Blog</a></li>
-          <li><a {% if page.url contains 'contact' %}class="current-page"{% endif %} href="{{site.baseurl}}/contact">Contact</a></li>
+          <li><a {% if page.url contains 'about' %} class="current-page" {% endif %} href="{{site.baseurl}}/about/index.html">About</a></li>
+        <li><a {% if page.url contains 'resume' %} class="current-page" {% endif %} href="{{site.baseurl}}/resume/index.html">Resume</a></li>
+          <li><a {% if page.url contains 'portfolio' %} class="current-page" {% endif %} href="{{site.baseurl}}/portfolio/index.html">Work</a></li>
+          <li><a {% if page.url contains 'blog' %} class="current-page" {% endif %} href="https://kowalskycartography.wordpress.com/">Blog</a></li>
+          <li><a {% if page.url contains 'contact' %} class="current-page" {% endif %} href="{{site.baseurl}}/contact/index.html">Contact</a></li>
         </ul>
       </div>
     </div>

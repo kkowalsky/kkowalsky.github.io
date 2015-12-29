@@ -1,10 +1,6 @@
 /**
  * Reset some basic elements
  */
-h1, h2, h3 {
-    color: $text-color;
-}
-
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -88,7 +84,36 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
 
+h1 {
+    font-size: 40px !important;
+    font-color: $green-color;
+    text-decoration: none;
+}
 
+h2 {
+    font-size: 36px !important;
+    font-color: $brand-color;
+}
+
+h3 {
+    font-size: 28px !important;
+    font-color: $text-color;
+}
+
+h4 {
+    font-size: 24px !important;
+    font-color: $text-color;
+}
+
+h5 {
+    font-size: 21px !important;
+    font-color: $text-color;
+}
+
+h6 {
+    font-size: 18px !important;
+    font-color: $text-color;
+}
 
 /**
  * Links
@@ -126,8 +151,6 @@ blockquote {
         margin-bottom: 0;
     }
 }
-
-
 
 /**
  * Code formatting
