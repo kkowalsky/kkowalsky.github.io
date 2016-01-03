@@ -16,4 +16,4 @@ I've always been fascinated at the way cartography intersects art and science. S
 
 View the [Lichtenstein tileset](https://api.tiles.mapbox.com/v4/katiekowalsky.236692c1/page.html?access_token=pk.eyJ1Ijoia2F0aWVrb3dhbHNreSIsImEiOiJHR2hfdlBNIn0.GUMLsSnT-SYx4ew7b77kqw#4/39.13/-69.08){:target="blank"} in its full glory.
 
-Or read my series of blogs on making tilesets [here](https://kowalskycartography.wordpress.com/tag/tilesets/).
+Or read my series of blogs on making tilesets [here]({{site.baseurl}}/posts/2015/05/25/cartocss-three.html).

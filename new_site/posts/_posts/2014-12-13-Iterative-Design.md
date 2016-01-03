@@ -17,7 +17,7 @@ Looking back on this, I'm so happy we've gone a million miles away from this des
 The second, more official prototype was our official starting off point for the project. We had an even smaller hidden menu with that good ol' hamburger icon. This was an abstraction of the last prototype: the user was given more trust to do what they wanted with the map.
 
 
-![wireframe 2](../../../../assets/img/blog/wireframe2.png)
+![wireframe 2](../../../../assets/img/blog/wireframe2.jpg)
 
 A lot of that didn't work. Having a menu open/close is great if you're designing for mobile. It saves screen real-estate and there are a ton of cool jQuery plug ins I wanted to work with to make it. However, we didn't want two legends (what's the point then?) and having one stay open started to make more sense. We also had two proportional symbol overlays to design for and play/pause buttons and a dropdown menu to consider.
 

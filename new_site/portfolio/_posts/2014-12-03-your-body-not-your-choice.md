@@ -15,4 +15,4 @@ Your Body, (Not) Your Choice was a final project for my interactive cartography 
 
 Learn the whole story about this map & view [Your Body, (Not) Your Choice](http://yourbodynotyourchoice.github.io/){:target="blank"} here.
 
-Read about my process for this project on my [blog](https://kowalskycartography.wordpress.com/tag/575-final-project/){:target="blank"}.
+Read about my process for this project on my [blog]({{site.baseurl}}/posts/2014/12/13/Iterative-Design.html).

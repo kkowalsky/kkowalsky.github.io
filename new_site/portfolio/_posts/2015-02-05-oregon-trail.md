@@ -15,4 +15,4 @@ I spent a semester doing cartographic research on building a lab curriculum that
 
 View the [Oregon Trail tileset](https://api.tiles.mapbox.com/v4/katiekowalsky.fe158312/page.html?access_token=pk.eyJ1Ijoia2F0aWVrb3dhbHNreSIsImEiOiJHR2hfdlBNIn0.GUMLsSnT-SYx4ew7b77kqw#4/39.30/-82.53){:target="blank"} in its full glory.
 
-Or read my series of blogs on making tilesets [here](https://kowalskycartography.wordpress.com/tag/tilesets/).
+Or read my series of blogs on making tilesets [here]({{site.baseurl}}/posts/2015/05/25/cartocss-three.html).
