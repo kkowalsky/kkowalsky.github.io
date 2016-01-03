@@ -78,6 +78,10 @@
         border-radius: 5px;
         text-align: right;
 
+        .navbar-brand {
+            visibility: hidden;
+        }
+        
         .menu-icon {
             display: block;
             float: right;
