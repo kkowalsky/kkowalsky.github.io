@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class= "row resume-section">
+    <h1 class="resume-title">Technical Skills</h1>
+    <div class="col-sm-12">
+        <h4>Cartography & GIS</h4>
+        <p> Adobe CC: Illustrator, InDesign, & Photoshop, ArcGIS, Blender, CartoCSS, CartoDB, Mapbox Studio/Tilemill, QGIS</p>
+    </div>
+    <div class="col-sm-12">
+        <h4>Programming</h4>
+        <p> Bootstrap, Command line, Git, HTML/CSS, JavaScript: Leaflet, D3, & jQuery, PostgreSQL & PostGIS, Python, SASS/LESS </p>
+    </div>
+</div>
+
+<div class="row resume-section">
+    <h1 class="resume-title">Work Experience</h1>
+{% for job in page.jobs %}
+  <div class="col-md-12">
+      <h4>{{ job.name }}</h4>
+      <h6> {{ job.title }} | <strong>{{ job.time }}</strong> | {{ job.location }}</h6>
+      <p>{{ job.description }}</p>
+    </div>
+{% endfor %}
+</div>
+
+<div class="row resume-section">
+    <h1 class="resume-title">Education</h1>
+  {% for school in page.education %}
+    <div class="col-md-12">
+        <h3>{{ school.name }}</h3>
+        <h5> {{ school.title }} </h5>
+        <h6><strong>{{ school.date }}</strong></h6>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="row resume-section">
+    <h1 class="resume-title">Volunteer Experience</h1>
+  {% for other in page.stuff %}
+    <div class="col-md-12">
+        <h3>{{ other.name }}</h3>
+        <h5>{{ other.title }}</h5>
+        <h6><strong>{{ other.date }}</strong></h6>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="row resume-section">
+    <h1 class="resume-title">Writing & Talks</h1>
+    {% for talk in page.talk %}
+    <div class="col-md-12">
+        <h6><a href="{{ talk.website }}">{{ talk.name }}</a></h6>
+    </div>
+  {% endfor %}
+</div> 
+

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katie Kowalsky</title>
+    <description>Katie Kowalsky is a cartographer, front-end web developer, and cheese enthusiast hailing from the great state of Wisconsin. Her passion for maps lends itself to talking, teaching, and even dancing about cartography.
+</description>
+    <link>http://katiekowalsky.me/</link>
+    <atom:link href="http://katiekowalsky.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Jan 2016 12:58:26 -0600</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 12:58:26 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>New Website &amp; Blog!</title>
+        <description>&lt;p&gt;In the spirit of creating a fresh start in 2016, I’ve been a little busy. First I wanted to celebrate the end of my second to last semester of college (!!!) by taking a break, but after a few days, I wanted to celebrate the Katie Kowalsky way: doing fun graphics &amp;amp; building a fresh website.&lt;/p&gt;
+
+&lt;p&gt;The website needed an overhaul. I had my old design since 2014, when I was learning HTML/CSS &amp;amp; Javascript and was okay, but not my best foot forward. I’m not necessarily a perfectionist (more of a pragmatist), but if something’s not right, I have to fix it. I wanted to move my blog in-house for some time. I hate Wordpress because of its lack of freedom and the overall design disconnect from my website. So I switched to &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, a groovy CMS all the cool kids (&lt;a href=&quot;http://lyzidiamond.com&quot;&gt;Lyzi&lt;/a&gt;, &lt;a href=&quot;http://mapsam.com&quot;&gt;Sam&lt;/a&gt;, and &lt;a href=&quot;http://tolomaps.github.io&quot;&gt;Robin&lt;/a&gt;) are using.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Why Jekyll?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Well besides the fact that three awesome carto-friends are using it (and host it on github so I can look at their code when I get stuck!), it also lets met make a website really fast. For instance, if I need to edit my navbar, I only have to do that in one place, not on every page that has the navbar! Jekyll generates a lot of things for me so I don’t have to. I’ve wanted to delve into SASS/LESS and Markdown more, so this was also a perk. Essentially, this is awesome &amp;amp; simple-stupid.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;New Design&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As I get ready to graduate &amp;amp; become an adult (a real adult who knows what a 401k is and how to properly cook kale), I wanted to make my website really represent me. I felt the old design was safe, stuck in the bootstrap-style portfolio websites that are great, but I knew I could do better.&lt;/p&gt;
+
+&lt;p&gt;My favorite color is chartreuse. This is like the cilantro of colors- you either love it or hate it. Obviously, this is a color that has to be used sparingly and isn’t really present in any maps I make (or in my clothes/apartment). But I adore it for it’s zany brightness &amp;amp; citrusy feel. So I wanted to use it a lot more. I also adore gradients (and think they’re having a web design comeback!) so I incorporated a nice turquoise to balance this dish (I’ve been watching a lot of Chopped! as of late and it’s seeping into everything I do).&lt;/p&gt;
+
+&lt;p&gt;The background cube texture has a lot to do with my love of geometric forms, tessellations, and MC Escher. I also loved how subtle I could reference this with a background and not have a boring white background.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Ideology&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The reason to use my favorite color, gradients, and a geometric texture reflects a lot of the growth I’ve done since my first website. I’ve become a teacher, leader, developer, designer, and full-fledged cartographer. It’s important that I share my personal narrative through my work and my blog, so why not in the design of my website?&lt;/p&gt;
+
+&lt;p&gt;That’s one of the reasons for my starterpack that I do every year… It’s a chance for me to catalogue what synthesized ‘Katie Kowalsky’ at that particular moment. I’ve never loved keeping a diary (except for travel logs) so I view this as a way to way my design sensibilities grow and become even more personal.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 -0600</pubDate>
+        <link>http://katiekowalsky.me/posts/2016/01/03/New-Website.html</link>
+        <guid isPermaLink="true">http://katiekowalsky.me/posts/2016/01/03/New-Website.html</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>Starterpack</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/fulls/starterpackz.png&quot; alt=&quot;Starterpack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Inspired by illustrations in Vulture Magazine, I decided to turn myself into a paper doll. Using Adobe Photoshop and Illustrator, I digitized myself and items my friends and I consider to be my “essentials”. I started this in 2014, and decided to duplicate myself again for 2015. I like to think of this as an exercise on personal branding and watching personal growth happen. These are also fun on a technical side, as I get to work on a drawing tablet and also free hand drawing on my laptop’s trackpad.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 -0600</pubDate>
+        <link>http://katiekowalsky.me/portfolio/2016/01/01/starterpack.html</link>
+        <guid isPermaLink="true">http://katiekowalsky.me/portfolio/2016/01/01/starterpack.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Vermont Map</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/fulls/vermont_mapRGB.jpg&quot; alt=&quot;Vermont Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This map of Vermont was created for my family, who have lived in all the nooks &amp;amp; crannies of the state. Using Blender to create the terrain and ArcGIS to geoprocess the land cover, from the UN Food and Agriculture Organization. After raster processing in Photoshop, I combined the rasters and vector data in Illustrator to create this map.&lt;/p&gt;
+
+&lt;p&gt;You can read about my process for preparing DEM for use in blender on my &lt;a href=&quot;https://kowalskycartography.wordpress.com/2015/12/02/preparing-your-dem/&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Dec 2015 00:00:00 -0600</pubDate>
+        <link>http://katiekowalsky.me/portfolio/2015/12/13/vermont-map.html</link>
+        <guid isPermaLink="true">http://katiekowalsky.me/portfolio/2015/12/13/vermont-map.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Preparing Your DEM</title>
+        <description>&lt;p&gt;Edit: Daniel Huffman pointed out to me a common problem that might happen if you assign 16 bit unsigned right away. I’ve edited the blog to show where you should assign the pixel type to avoid stairstepping problems that might occur.&lt;/p&gt;
+
+&lt;p&gt;This semester I’ve been able to work with terrain maps, which has always been a part of cartography I’ve been afraid to do. The amount of unfamiliar terms and processes can be scary while following along with one of &lt;a href=&quot;http://shadedrelief.com/&quot; target=&quot;_blank&quot;&gt;Tom Patterson’s &lt;/a&gt; tutorials or just trying to get a DEM ready for using in Blender, following Daniel Huffman’s &lt;a href=&quot;https://somethingaboutmaps.wordpress.com/2014/01/01/blender-tutorial/&quot; target=&quot;_blank&quot;&gt;3-d modeling technique&lt;/a&gt;. This blog attempts to talk about the geoprocessing required in ArcGIS (If you know how to do this in QGIS, please let me know!) for getting a DEM ready for making beautiful terrain maps in Blender (think of this as a prequel to Daniel’s video series).&lt;/p&gt;
+
+&lt;p&gt;Step One:&lt;/p&gt;
+
+&lt;p&gt;Don’t know where to get DEM data to begin with? I recommend using &lt;a href=&quot;http://www.viewfinderpanoramas.org/Coverage%20map%20viewfinderpanoramas_org3.htm&quot; target=&quot;_blank&quot;&gt;Viewfinder Panorama&lt;/a&gt; to download 3” DEM from their global coverage map. I could make a separate blog post on comparing the differences of websites for downloading DEMs, but this one is simple stupid (which is probably why I use it). Just click on the area you want and download it.&lt;/p&gt;
+
+&lt;p&gt;Step Two:&lt;/p&gt;
+
+&lt;p&gt;Once you’ve unzipped the folder, create a ArcCatalog connection to the folder and load one of the images into ArcGIS. These DEMs are in .hgt files that as you can see, which is a file type used by NASA for the Shuttle Radar Topography Mission that collects radar data (all you need to know is that it loads into ArcGIS no problem). You may notice that the image might only cover a small portion of the area you’re trying to make shaded relief for. We’ll fix that problem in a bit, but for right now just load in all the images you need. To figure out how many of these images you need, it helps to add some of the vector data you’re going to use for admin0 or admin1 boundaries from &lt;a href=&quot;http://naturalearthdata.com/downloads/&quot; target=&quot;_blank&quot;&gt;Natural Earth&lt;/a&gt; to give you a sense of what additional DEM images you have to add.&lt;/p&gt;
+
+&lt;p&gt;Step Three:&lt;/p&gt;
+
+&lt;p&gt;Now that you have all the DEM images loaded into ArcGIS, its time to combine them! This is where we create what’s called a Mosaic Dataset. The first step is to create a new file geodatabase on the ArcCatalog tab in the same place you’re data is stored. Make sure you make this the default geodatabase so you don’t have to constantly redirect to it. Then right click on the new database and select ‘New’ and press ‘Mosaic Dataset’&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/dem1.png&quot; alt=&quot;dem 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you do that, you’ll be shown the menu below:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/dem2.png&quot; alt=&quot;dem 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Make sure you name the dataset and set a coordinate system. Once you press ‘Ok’, you’ll see an empty mosaic added in your table of contents and a new mosaic dataset in ArcCatalog.&lt;/p&gt;
+
+&lt;p&gt;Step Four:&lt;/p&gt;
+
+&lt;p&gt;Once you’ve created a mosaic dataset, you have to put in the DEMs you want to be stitched together. To do that, right click on the mosaic dataset in the ArcCatalog and select ‘Add Rasters’. This will bring you to a menu where you can select your .hgt files. Select all of the images you want to include and then there a couple of checkboxes to press to prevent the mosaic from not working.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/dem3.png&quot; alt=&quot;dem 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First check the ‘Update Overviews’ checkbox under the regular set of options. Then open ‘Advanced Options’ and check ‘Build Raster Pyramids’, ‘Calculate Statistics’, and ‘Build Thumbnails’. Once they load, you should be able to seem your DEMs all stitched together.&lt;/p&gt;
+
+&lt;p&gt;Step Five:&lt;/p&gt;
+
+&lt;p&gt;Now that your mosaic dataset is done, I recommend importing all of the vector data you want to include to keep in your .mxd file. It’s not required in order to get into Blender, but can be time consuming to add everything in later.&lt;/p&gt;
+
+&lt;p&gt;Step Six:&lt;/p&gt;
+
+&lt;p&gt;Right click on the image in your mosaic dataset in ‘Table of Contents’ and export the DEM as an image (I recommend as a TIFF). Then add the layer to the map.&lt;/p&gt;
+
+&lt;p&gt;Step Seven:&lt;/p&gt;
+
+&lt;p&gt;Open the ‘Extensions’ button under ‘Customize’ on the main menu and make sure to select the ‘Spatial Analyst’ extension. Then search for the ‘Raster calculator’ tool. Your DEM has a range of values from 0 to 1000 typically and the full range of values actually extends from 0 to 65,000. In order to have Blender see the full range of values, you’re going to want to multiply by a number that gets the max to 65,000. If you have negative numbers, this is also the time to get rid of that (as Blender won’t be able to use that value).&lt;/p&gt;
+
+&lt;p&gt;Step Eight:&lt;/p&gt;
+
+&lt;p&gt;Use the ArcGIS tool ‘Copy Raster’ to create a new version of this mosaic with a ‘16 bit unsigned’ pixel type.&lt;/p&gt;
+
+&lt;p&gt;Step Nine:&lt;/p&gt;
+
+&lt;p&gt;Once you’ve edited the range of your DEM’s values, export the layer as a TIFF.&lt;/p&gt;
+
+&lt;p&gt;Last step:&lt;/p&gt;
+
+&lt;p&gt;Whooo! You have a TIFF exported and ready to put into Blender, right? WRONG. Turns out, ArcGIS messes with TIFFs on export so when you load the terrain into Blender, this is what it looks like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/dem4.png&quot; alt=&quot;dem 4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To solve this terrible problem, the (hopefully) only step required is to open the DEM.tif in Photoshop and ‘Save As’ a new tiff (DEM2.tif for instance). This will clean out any junk left from the export from ArcGIS and allow you to easily import to make beautiful terrain in Blender!!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Dec 2015 00:00:00 -0600</pubDate>
+        <link>http://katiekowalsky.me/posts/2015/12/03/Preparing-DEM.html</link>
+        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/12/03/Preparing-DEM.html</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>Unemployment Map</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/fulls/comic_map.png&quot; alt=&quot;Unemployment Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I made this map of unemployment map of the US as a challenge in an advanced cartography course at UW-Madison. The exercise required each student to design the map using a different, assigned artistic/emotional inspiration. I had the emotion of “excited” so I created the map using the most exciting graphic design style I know: comic art. This map challenges the notions of what typical moods should be used on a certain topic but doesn’t necessarily reflect my personal views on unemployment {disclaimer}. I used ArcGIS and Adobe Illustrator to complete this.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Nov 2015 00:00:00 -0600</pubDate>
+        <link>http://katiekowalsky.me/portfolio/2015/11/17/unemployment-map.html</link>
+        <guid isPermaLink="true">http://katiekowalsky.me/portfolio/2015/11/17/unemployment-map.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>My Summer with Girls Who Code!</title>
+        <description>&lt;p&gt;This summer, I did a crazy thing: I decided to teach computer programming to high school junior and senior girls in DC.&lt;/p&gt;
+
+&lt;p&gt;With every news outlet talking about the diversity problem in tech, I was ecstatic to be in the trenches fixing this problem in the most direct way possible. It kills me knowing that what I love doing (coding with a map emphasis) is a field inherently biased towards young, white, straight males. I’m not saying that those men in the field aren’t building amazing things and products, it’s that a ton of &lt;a href=&quot;https://www.ncwit.org/ncwit-fact-sheet&quot; target=&quot;_blank&quot;&gt;studies&lt;/a&gt; and &lt;a href=&quot;http://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html&quot; target=&quot;_blank&quot;&gt;research&lt;/a&gt; have shown that diverse companies and teams just work better. Also, if we’re going to improve diversity numbers, we can’t look at the number of women in non-tech roles in a company- we need to look at their IT, engineering, and development teams to get to the real issue. If you want further proof that I care DEEPLY about this, look at my &lt;a href=&quot;http://kkowalsky.github.io/women.html&quot; target=&quot;_blank&quot;&gt;infographic on gender problems in tech&lt;/a&gt;. TL;DR: I really care about this issue and was PUMPED to teach for Girls Who Code.&lt;/p&gt;
+
+&lt;p&gt;By the way, &lt;a href=&quot;http://girlswhocode.com&quot; target=&quot;_blank&quot;&gt;Girls Who Code&lt;/a&gt; is a phenomenal organization. As someone who’s worked for them, I can say that they’re easily the most efficient, well organized non-profit I’ve ever worked with. They focus on two programs, one is the Girls Who Code clubs that are for all girls from 6th to 12th grade and hosted after school in all types of communities in the US and kick ass. I worked for their Summer Immersion Program, that takes only incoming juniors and seniors in high school for a 7 week intensive summer camp that teaches coding. I love that this is how they’re solving the diversity problems in tech: by taking young women who want to do this (every student has to apply for the program) and giving them the tools they need to go to try AP/IB Computer Science at their high schools and hopefully major in CS in college!&lt;/p&gt;
+
+&lt;p&gt;As much as I rattled on about loops, booleans, and parameters and taught my class how to code, the experience taught me a lot as well. Here are some of the most important lessons I learned from working at Girls Who Code:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Imposter Syndrome &lt;strong&gt;&lt;em&gt;sucks&lt;/em&gt;&lt;/strong&gt;. Every one of my students felt this at times. Coding is a &lt;em&gt;very &lt;/em&gt;hard thing to learn and it&#39;s natural for students who are used to achieving at typical high school subjects to feel like a failure when they keep making mistakes in their code. Transitioning from the high school mindset of failure being bad, we had to spend time getting the girls used to the fact that coding is a series of making mistakes over and over until you get it right (the coder&#39;s algorithm I suppose).  When you test your code and there are a ton of errors, it&#39;s natural to feel like an imposter. Heck- I have to combat imposter syndrome every day and I&#39;ve fought tooth and nail to get to where I am in coding. The good news is that unlike my Intro to Programming class in college, we at Girls Who Code spend a lot of time making sure that the students see that every mistake is also another lesson learned.&lt;/li&gt;
+	&lt;li&gt;What also helped to combat imposter syndrome and make our class fun and energetic is the type of space we had. I&#39;ve worked in spaces like this before (the UW Cartography Lab mostly), but I think this was the first time for most of our students to work in an environment where risk is encouraged, mistakes are gonna be made, and every minute of coding can also be a dance party. The energy of our classroom made it &lt;strong&gt;so&lt;/strong&gt; much easier to fight imposter syndrome and teach code. The pressure I&#39;ve felt in silent programming labs and nervousness I&#39;ve felt to ask questions is immense. The fact that we had a head teacher and two TAs with 20 people was also immensely helpful. We could easily move around the classroom, checking in with students and helping where needed.&lt;/li&gt;
+	&lt;li&gt;Another thing that made my GWC class radically different than my experience with programming in college is the diversity. While we&#39;re all women learning to code, every one of my students came from a different background. The economic, racial, geographic, and cultural diversity we had was truly outstanding. I also loved that we had experience levels from &#39;Never Seen Code&#39; to &#39;I LOVE JAVA!!&#39;, which meant that girls could work together and learn things from one another (the curriculum is also set up so that by Week 3, even AP Computer Science students are learning new material)&lt;/li&gt;
+	&lt;li&gt;Something that was really hard to engrain in our students is &#39;function before form&#39;. I get it- I want to design something BEAUTIFUL before it&#39;s even working. &lt;a href=&quot;https://twitter.com/garlowNPR&quot; target=&quot;_blank&quot;&gt;Joanne Garlow&lt;/a&gt;, the lead developer at NPR talked to us this summer about the &#39;sashimi&#39; principle. Just like the food, make your product the simplest version of itself. That was something we really stressed when doing final projects which was such a great lesson to learn.&lt;/li&gt;
+	&lt;li&gt;To follow up on that last point, I think it&#39;s also really important to not only teach the concept of &#39;function before form&#39; but teach the form part! So many CS programs don&#39;t talk about front-end development or interface design. 100% of the reason I&#39;m a cartographer and not strictly a programmer is because I also love design and care about UI/UX. I&#39;m so glad we do a lot of design in HTML/CSS and jQuery to let the girls know that coding isn&#39;t just nuts and bolts, it&#39;s immensely creative as well.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 16 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://katiekowalsky.me/posts/2015/09/16/Girls-Who-Code.html</link>
+        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/09/16/Girls-Who-Code.html</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>CartoCSS Part Three</title>
+        <description>&lt;p&gt;&lt;em&gt;As part of my research under Robert Roth, I’ve been building course curriculum on CartoCSS through Mapbox Studio for UW-Madison. If you’ve seen my previous blogs on the subject, or seen the fruits of my labor on my &lt;a href=&quot;www.katiekowalsky.me&quot;&gt;website&lt;/a&gt;, I’ll be going through how to get started with CartoCSS and Mapbox Studio. I’ll be walking through how to style in CartoCSS with my infamous Roy Liechtenstein tileset.  Before I begin, my work doesn’t exist in a vacuum and wouldn’t be possible without the support of Mamata Akella, Lyzi Diamond, Robert Roth, Tanya Buckingham, and many others. Many thanks.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Part One: WTF is CartoCSS? &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m sure you might have heard this term being mumbled at conferences, on twitter, at Maptime, or more likely not. CartoCSS is a pretty new development in the realm of cartographic design (at least in being an accessible and easy tool anyone can use).&lt;/p&gt;
+
+&lt;p&gt;Let’s break down what it means:&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;Carto&lt;/em&gt;: related to maps + &lt;em&gt;CSS&lt;/em&gt;: Cascading Style Sheets, the styling language for the web = CartoCSS&lt;/p&gt;
+&lt;p&gt;Hmmm, could this simply mean that CartoCSS is styling maps for the web? &lt;strong&gt;YES&lt;/strong&gt; (I knew you were a genius).&lt;/p&gt;
+
+&lt;p&gt;Webmapping in the 21st century requires tiles- vector or raster squares representing geographic areas at different zoom levels (think about how Google Maps loads in squares when zooming? YEP those are the tiles). Each tile is typically 256 x 256 pixels and stitched together for a web map ‘quilt’ in your browser. Tiles are awesome because they’re efficient, functional, and only need to load what you’re currently looking at on the screen.&lt;/p&gt;
+
+&lt;p&gt;So in order to have tiles, we could go to &lt;a href=&quot;http://maps.stamen.com&quot;&gt;Stamen&lt;/a&gt;, &lt;a href=&quot;https://cartodb.com/basemaps/&quot;&gt;CartoDB&lt;/a&gt;, the &lt;a href=&quot;http://www.nps.gov/npmap/tools/park-tiles/#4/39.06/-96.02&quot;&gt;National Park Service&lt;/a&gt; or &lt;a href=&quot;https://www.mapbox.com/mapbox.js/api/v2.2.1/l-mapbox-tilelayer/&quot;&gt;Mapbox&lt;/a&gt; for tiles to use. Why reinvent the wheel right? I think a lot of what I do might seem meaningless or stupid to a lot of people. Creating my own tilesets makes building a webmap a much longer process. Plus, if you look at some of the tilesets I’ve made, they’re not very usable. But if cartography was an art/science based on only making usable and functional maps, I don’t think some of the best maps would ever have been created. We are a discipline that is tethered to this notion of usability, but not defined by it. If I was a general artist, no one would ever question how useful my work was and likewise if I was just a programmer, design wouldn’t matter. It’s when we get to this weird middle ground that we have to allow for a gray space.  Maps don’t have to necessarily be functional or usable to be incredibly informative or interesting. &amp;lt;/rant&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;These are the beautifully stupid and impractical tilesets I’ve made:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss1.png&quot; alt=&quot;cartocss 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;tileset based off of oregon trail&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss2.png&quot; alt=&quot;cartocss 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;tileset based off of Roy Liechtenstein’s artwork&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss3.png&quot; alt=&quot;cartocss 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;tileset based off telegeography’s submarine cable maps&lt;/p&gt;
+
+&lt;p&gt;If you look at every tileset created by Mapbox, CartoDB, Stamen, or NPS, you’ll see how each is formatted for different design considerations. CartoDB’s tiles for instance are a great background for displaying data on top of it, while the National Park Service’s Park Tiles have beautiful terrain included to make a more natural map that’s relevant to showcasing National Parks. CartoCSS allows for making sure all parts of your map informs the user. Making a map for routing? You can customize how many labels show up for major and minor roads and at what zoom levels instead of trusting some other company to do it.&lt;/p&gt;
+
+&lt;p&gt;The crazy tilesets I’ve made follow a use-case scenario I developed for lab curriculum on CartoCSS at UW-Madison: A director of an art museum wants a fun map that has 20 POI markers on it to put on their website. This scenario enabled me to make something that’s less functional and way more fun. This is completely meant to be a play on classic cartographic design principles and aesthetic mapping.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Now back to the nuts and bolts of CartoCSS:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This diagram is everything that’s in a web map (of course there are non-tile maps with D3 but that’s another blog in the making). CartoCSS is the first step in the creation of tiles, one of the three major parts besides javascript and data. So now that we understand what CartoCSS is, we can start playing in it!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss4.png&quot; alt=&quot;cartocss 4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to Alan McConchie and Beth Schetcher for this diagram!&lt;/p&gt;
+
+&lt;p&gt;Whereas CSS can be difficult to implement at times, CartoCSS is really really easy to use. There’s a learning curve to the medium you’re using like Tilemill or Mapbox Studio, but all it boils down to basic conditional logic in computer science ( i.e. if… then… logic). You’re telling the software to take this data and defining different styles based off attributes of the spatial data. For instance, if you’re using Mapbox-Streets (which is offered through Mapbox Studio and uses Open Street Map data), you can separate the styling for roads with the statement ‘class = ‘main’’ to only design for the main roads. Here’s the full CartoCSS documentation on GitHub: &lt;a href=&quot;https://github.com/mapbox/carto&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Part Two: Making a tileset in Mapbox Studio&lt;/strong&gt;
+The first things I like to do are create global variables so I don’t have to use color hex codes every time I need that color and I can also see my color palette all organized in one place. Variables use the @ symbol to be represented. I also want to declare my fonts so I can use nicknames to call them when needed.&lt;/p&gt;
+
+&lt;p&gt;To set up your map, you must use the Map{} function, which creates a map object to be added to the tileset.There are several things you can do with Map{}, but declaring your background-color (or if you were to have a background-pattern) is typical for most CartoCSS tilesets.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss5.png&quot; alt=&quot;cartocss 5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After declaring global variables, it’s time to actually add things to the map! I always start with water because it rarely is different for other zoom levels. It’s worth mentioning that Mapbox-Streets (the dataset I’m using that’s provided with Mapbox Studio) separates the labels for the layers into a different layer. You won’t want to use text functions for non-label layers. Layers in CartoCSS use a hashtag # similar to a id selector in CSS.&lt;/p&gt;
+
+&lt;p&gt;To color the water, you just use the selector for water and polygon-fill. You can also change the opacity or use change the polygon-gamma number. Changing the polygon-gamma affects anti-aliasing for polygon features, prevents gaps in the water coloring.&lt;/p&gt;
+
+&lt;p&gt;In order to add a border, I have to add a double colon and name this interior statement and can now style the water layer’s line properties. From Mapbox’s manual: “Within a layer, styles can be broken up into ‘attachments’ with the :: syntax. Think of attachments like sub-layers. Add attachment to data layers with heavy filtering to keep file sizes low.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss6.png&quot; alt=&quot;cartocss 6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next thing to style are the country lines. The #admin selector has various attributes that can be used to specify my styling. If you look at the layer tab, you’ll see that the admin_level can be used to specify whether the administrative lines are for country, state, region, county, etc. Having it less than or equal to 2 guarantees that only country lines are showing. I also don’t want the borders on the water showing, so I can use the maritime attribute to only show the borders that don’t touch water.&lt;/p&gt;
+
+&lt;p&gt;To have a line show up, you have to declare the line-color and line-width. Because borders can appear jagged sometimes, I set the line-cap and line-joins to be round and add a line-smooth element. Also, to increase the line width at a higher zoom, I just need to use the zoom selector and set the line-width to a higher number at different zooms.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss7.png&quot; alt=&quot;cartocss 7&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s what we’ve done so far with not even 40 lines of CartoCSS!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss8.png&quot; alt=&quot;cartocss 8&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that we’ve explored how to style lines and polygons, it’s time to learn how to label. As mentioned earlier, layers are separated in Mapbox-Streets by the geometry and the labels. This makes it much easier to manage and avoid having to constantly use those attachments. If you look in the documentation tab, you’ll notice that under the text selectors, there are two different key words: text or shield. We’re going over both of these two symbolizers, starting with text for country labels.&lt;/p&gt;
+
+&lt;p&gt;Text requires text-name and text-face-name in order to work. The logic is that you have to declare what typeface will be displayed and what text actually should be displayed as well. You can choose which option you want displayed, whether you want the local name of the country (i.e. Middle Eastern countries will be in Arabic, the USA + UK will be in English, etc.) or their English, French, German, or Spanish names. Since you’re calling a specific object in one of those arrays, it gets formatted like ‘text-name: [name_en];’.&lt;/p&gt;
+
+&lt;p&gt;Recall the global type variables we declared earlier? We’ll use this for text-face-name. Simple call your @sans_bold to choose a bold typeface for the country labels. While not necessary, you probably want to customize your text-fill and text-size. For all of my text, I make a text-fill that’s @white and use a @text-halo-fill that’s black with a text-halo-radius of 2 to make it look like a comic book. Halos work just like a stroke in Illustrator in this instance. Experiment using various text functions to get your labels to be where you want.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss9.png&quot; alt=&quot;cartocss 9&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that we’ve added some country labels, here’s what we’re working with now:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss10.png&quot; alt=&quot;cartocss 10&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see, there’s a lot of white, which is a little too boring for our purposes of creating a Lichtenstein style map. When I was choosing my sources, I also added Mapbox Terrain, so I could style the land based off of landcover patterns. Mapbox Terrain includes hillshade, contours, and landcover (Mapbox Satellite and watermask have even more options, test out the different additional sources for how you can style your map and have it fit with your inspiration), so I can use polygon selectors to style how these look. This is where I can finally use the halftone texture pattern I added in the .tm2 folder. Once you know how to design landcover, you can use the same logic for the landuse and building layers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss11.png&quot; alt=&quot;cartocss 11&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For all of these different landcovers, I choose to style them as polygons, testing which area is going to cover the most surface area, which turned out to be grass. I simply added a polygon-fill and make it 50% transparent. Scrub landcover gets layered over the grass, so I’m using this to add a halftone pattern. First I add a polygon-fill that’s a very transparent green. In order to add my pattern, I have to add the url reference. I put the halftone svg (all image types are acceptable, I just used svg in Illustrator based on personal preference) in a folder inside the .tm2 folder called img and just have to follow the example in the Docs tab.&lt;/p&gt;
+
+&lt;p&gt;This is an opportunity to play with Mapbox Studio’s use of comp-op (short for compositing operators from Photoshop) tools. To understand what each does, there’s documentation on Mapbox’s website &lt;a href=&quot;https://www.mapbox.com/guides/compositing-reference/&quot;&gt;here&lt;/a&gt; about the differences of each operator. For those familiar with Photoshop, you can play around with specific operators you want to use. For this landcover, I’ll be adding the pattern with a soft-light comp-op that makes the pattern a lot less dramatic and harsh to look at. It’s softer than the overlay mode, which is used on the snow landcover in lines 8-13. I add one last layer using the landuse layer for woods and parks to follow the same pattern for scrub, but without transparency or the comp-op. This has a three-layer effect with green overlays, making a beautiful way of symbolizing natural features.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss12.png&quot; alt=&quot;cartocss 12&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As our map starts to come together at a world view, it’s time to add things that will be added at higher zooms like city names and the aforementioned shield. Shields incorporate the image file being used as the city marker and the text next to it, labeling the location. This is why the operators are a little different for shield versus text. Unlike in Illustrator or ArcMap, where you might position manually where every label will go for a city, you use the shield-text-dx and shield-text-dy to move the label around. The layer with the city labels has a built in attribute called ‘ldir’ which assigns a label placement direction. Using those along with the shield-text-dx/dy will allow you to move label placement around the shield easily.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss13.png&quot; alt=&quot;cartocss 13&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to have my city name adjacent to the shield and not have the text on top of the shield, I have to set shield-unlock-image as true. Also, depending on how your marker is sized, you’ll need to use the transform function to scale it down. I also want to place it as a point label, so I use the shield-placement function. After setting the design of my places with shield-size, shield-fill, shield-halo-fill, and shield-halo-radius, I want to define the shield-text-dx/dy. The best way to learn how to place shields and have them change with ldir is with practice. Experiment with this until you’re satisfied; looking at the sample templates provided by Mapbox and see how other designers use the shield.At closer zooms, add more #place_labels of smaller cities, towns, or even villages.&lt;/p&gt;
+
+&lt;p&gt;Now we have a much more functional map at other zoom levels:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss14.png&quot; alt=&quot;cartocss 14&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lastly, we have to add roads so the city view looks realistic. When designing at this point, it’s useful to switch back and forth into the Places view and see how your design works around the world. Styling roads is where we want to add this to create an outer thick black line and a interior white line through the use of ‘attachments’. This mimics the text with the black halo and white fill. Adding a line-join and line-cap that’s round can also help to remove jagged edges that occur. Roads have a ton of attributes that be utilized to style differently, take advantage of that to make different size and color roads. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/cartocss15.png&quot; alt=&quot;cartocss 15&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wow that looks brilliant right!?&lt;/p&gt;
+
+&lt;p&gt;The best way I learned CartoCSS was through recreating Roy Liechtenstein’s pop art work as a map. Try something ridiculous in Mapbox Studio, have fun with designing (remember that cartography isn’t a serious science). Feel free to tweet me &lt;a href=&quot;http://twitter.com/katiekowalsky&quot;&gt;@katiekowalsky&lt;/a&gt; with any questions! If you’re in DC this month, I’ll be teaching a &lt;a href=&quot;http://twitter.com/maptimeDC&quot;&gt;MaptimeDC &lt;/a&gt;on this July 16th and a &lt;a href=&quot;https://twitter.com/MaptimeMadison&quot;&gt;MaptimeMadison&lt;/a&gt; on this sometime in September. If you’re going to &lt;a href=&quot;http://nacis.org/2015&quot;&gt;NACIS&lt;/a&gt;, I’ll be teaching this hopefully in Minneapolis in October!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 May 2015 00:00:00 -0500</pubDate>
+        <link>http://katiekowalsky.me/posts/2015/05/25/cartocss-three.html</link>
+        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/05/25/cartocss-three.html</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>A Year in Review</title>
+        <description>&lt;p&gt;I finished my junior year this morning with a full summer and fall ahead. I’ll be done in December, which is an INSANE thing to consider. I have to start figuring out my life, printing out my resume, publish my first journal article (hopefully), present at &lt;a href=&quot;http://nacis.org&quot; target=&quot;_blank&quot;&gt; NACIS&lt;/a&gt; for the first time, and figure out how to look like I have any clue what I’m doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/me1.png&quot; alt=&quot;my feet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Things that happened in the past year:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Started work the &lt;a href=&quot;geography.wisc.edu/cartography&quot; target=&quot;_blank&quot;&gt;UW Cart Lab&lt;/a&gt; with a ton of different clients and learning production cartography like a champ&lt;/li&gt;
+	&lt;li&gt;Learned everything I know from sitting next to &lt;a href=&quot;http://twitter.com/pinakosgraphos&quot; target=&quot;_blank&quot;&gt;Daniel Huffman&lt;/a&gt; for a summer&lt;/li&gt;
+	&lt;li&gt;Finally made my &lt;a href=&quot;katiekowalsky.me&quot; target=&quot;_blank&quot;&gt;own portfolio website&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Started tweeting for NACIS as their social media director&lt;/li&gt;
+	&lt;li&gt;Made an&lt;a href=&quot;http://yourbodynotyourchoice.github.io&quot; target=&quot;_blank&quot;&gt; interactive map of abortion rights in the US&lt;/a&gt; with Robin Tolochko and Dylan Moriarty&lt;/li&gt;
+	&lt;li&gt;Went to NACIS for the first time! (Met some of my carto-crushes and learned about my new favorite hobby, CartoCSS)&lt;/li&gt;
+	&lt;li&gt;Co-founded &lt;a href=&quot;maptime.io/madison&quot; target=&quot;_blank&quot;&gt;Maptime Madison&lt;/a&gt; with Robin Tolochko and Rashauna Mead&lt;/li&gt;
+	&lt;li&gt;Created a blog to remember all of this stuff&lt;/li&gt;
+	&lt;li&gt;Tackled leaflet.js, AJAX, jQuery &amp;amp; D3 in Rob Roth&#39;s interactive cartography class&lt;/li&gt;
+	&lt;li&gt;Did professional research under &lt;a href=&quot;http://twitter.com/roberteroth&quot; target=&quot;_blank&quot;&gt;Rob Roth&lt;/a&gt; on &lt;a href=&quot;mapbox.com&quot; target=&quot;_blank&quot;&gt;Mapbox Studio&lt;/a&gt; and CartoCSS&lt;/li&gt;
+	&lt;li&gt;Made some ridiculously cool maps (one of which made me famous for 15 mins) in CartoCSS&lt;/li&gt;
+	&lt;li&gt;Got a phenomenal TAship with &lt;a href=&quot;https://girlswhocode.com/&quot; target=&quot;_blank&quot;&gt;Girls Who Code&lt;/a&gt; in DC for the summer!&lt;/li&gt;
+	&lt;li&gt;Fell in love with &lt;a href=&quot;http://openstreetmap.org&quot; target=&quot;_blank&quot;&gt;Open Street Map&lt;/a&gt; &amp;amp; became a member&lt;/li&gt;
+	&lt;li&gt;Went from 120 to 625 Twitter followers (my brother would argue that that&#39;s valuable)&lt;/li&gt;
+	&lt;li&gt;Learned PostgreSQL/PostGIS for bo$$ data purposes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ll say it time and time again- without the incredible people that take part in #uwcart and are involved in any facet of my life in Wisconsin Cartography I couldn’t accomplish a single thing.  I’m so undeniably lucky for the time, energy, patience, kindness, and thoughtfulness put into our formal curriculum and all the work/innovation being done outside of the classroom.&lt;/p&gt;
+
+&lt;p&gt;A lot of people would say that’s a lot to accomplish in 365 days, with a full undergraduate course load, two jobs, and trying to do other things like Maptime Madison! or see friends/loved ones, but to me, it’s not enough. I think constantly about the beautiful ray of feminist sunshine that is Leslie Knope  and how great of a role model it is to have in a world that is full of apathy.&amp;lt;/p&amp;gt;
+In fact, I like to steal a quote that Amy Poehler added in the last episode of Parks and Recreation, because it’s my mission statement:&lt;/p&gt;
+&lt;blockquote&gt;&lt;strong&gt;&quot;Far and away the best prize that life has to offer is the chance to &lt;em&gt;work hard at work worth doing&lt;/em&gt;.&quot; - Theodore Roosevelt&lt;/strong&gt;&lt;/blockquote&gt;
+&lt;p&gt;I don’t know if there’s anything that’s ever driven me to cartography more than the point that it’s work worth doing to me. And it can be relentless, exhausting, without any reward or thanks, but that’s not why we do it. Doing things that are easy are boring, and I refuse to live that life.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;As a side note:&lt;/em&gt; I’ll be publishing a blog tutorial on CartoCSS shortly, I just needed to be nostalgic for a moment. Also, come to NACIS to see me present on it or State of the Map US to say hi. I’ll also be live-blogging and live-tweeting the first Maptime Summit immediately after, so follow along on the interwebs.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 May 2015 00:00:00 -0500</pubDate>
+        <link>http://katiekowalsky.me/posts/2015/05/15/year-in-review.html</link>
+        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/05/15/year-in-review.html</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>Lichtenstein Tile</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://api.tiles.mapbox.com/v4/katiekowalsky.236692c1/page.html?access_token=pk.eyJ1Ijoia2F0aWVrb3dhbHNreSIsImEiOiJHR2hfdlBNIn0.GUMLsSnT-SYx4ew7b77kqw#4/39.13/-69.08&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/fulls/lichtenstein-map.gif&quot; alt=&quot;Lichtenstein Tiles&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve always been fascinated at the way cartography intersects art and science. So while, I developed lab curriculum on Mapbox Studio and CartoCSS for an advanced cartographic design course at UW-Madison, I wanted to test that intersection. I made a tileset is based off the work of Roy Lichtenstein, a famous pop art artist who is known for his bright primary colors, ben-day dots, and capturing a burgeoning youth culture. This was featured on the &lt;a href=&quot;http://www.citylab.com/design/2015/05/the-world-mapped-as-pop-art/392729/&quot;&gt;Atlantic’s City Lab blog&lt;/a&gt; and the &lt;a href=&quot;http://i100.independent.co.uk/article/when-cartography-meets-pop-art-wonderful-maps-occur--g1e9ZsLcReb&quot;&gt;Independent’s i100 blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;View the &lt;a href=&quot;https://api.tiles.mapbox.com/v4/katiekowalsky.236692c1/page.html?access_token=pk.eyJ1Ijoia2F0aWVrb3dhbHNreSIsImEiOiJHR2hfdlBNIn0.GUMLsSnT-SYx4ew7b77kqw#4/39.13/-69.08&quot; target=&quot;blank&quot;&gt;Lichtenstein tileset&lt;/a&gt; in its full glory.&lt;/p&gt;
+
+&lt;p&gt;Or read my series of blogs on making tilesets &lt;a href=&quot;/posts/2015/05/25/cartocss-three.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
+        <link>http://katiekowalsky.me/portfolio/2015/05/01/lichtenstein-map.html</link>
+        <guid isPermaLink="true">http://katiekowalsky.me/portfolio/2015/05/01/lichtenstein-map.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>CartoCSS Part Two</title>
+        <description>&lt;p&gt;For part two of my series in advanced CartoCSS vector tileset design, I’m working on another tileset based off of the classic video game ‘The Oregon Trail’. I’ve always loved the 8-bit style of the map in the game and after seeing a &lt;a href=&quot;https://www.mapbox.com/blog/super-mario-with-studio/&quot;&gt;Super Mario tileset&lt;/a&gt; by Duncan Graham, I figured this would be my next foray into Mapbox Studio.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail1.png&quot; alt=&quot;oregon trail 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This tileset is pretty simple in comparison to my previous set. The simplicity of the background and color scheme make point locations and typeface decisions much more important. As the main point of this map is to be referential, typeface plays a critical role in informing the reader where everything is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step One: Download Source&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I wanted to do something special, as a nod to the generalized style of maps used in video games. &lt;a href=&quot;http://projectlinework.org&quot;&gt;Project Linework&lt;/a&gt; is a great vector shapefile source for generalized linework. I’ve always wanted to use Daniel Huffman’s war games shapefile which are a fantastic hexagonal abstraction of the world.&lt;/p&gt;
+
+&lt;p&gt;After downloading the source from Project Linework, the shapefile has to be uploaded to Mapbox Studio. Since it’s such a big file at zoom 0, and I plan on constraining the zoom level anyway, so in order to upload it to mapbox and stay under the 500MB limit, I have to constrain it first on the source side.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail2.png&quot; alt=&quot;oregon trail 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This seems to have added a gap in my tileset near the IDL, but since this map is meant to be at a zoom level &amp;gt; 3, it’s unlikely that this will be of any concern.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step Two: Adding Textures &amp;amp; Basic Design&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the classic features of an 8-bit video game (and of the Oregon Trail maps) is the grid texture used instead of color for water. I found a grid texture and set the water polygon to be that pattern, to mimic it as best as possible.&lt;/p&gt;
+
+&lt;p&gt;To add some color, I set my lake hex shapefile to be blue to match the classic bright blue of the sample maps and added a polygon-gamma setting of .2 to have some overlap of the lakes and not have awkward gaps.&lt;/p&gt;
+
+&lt;p&gt;With CartoCSS, there’s a lot of zooming in and out to figure out what needs to change at different zoom levels. While the grid texture will adjust at any zoom level, the thickness of the line-widths will look better if they’re adjusted.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail3.png&quot; alt=&quot;oregon trail 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt; Step Three: Having Fun With It&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To make this map more fun, I decided to add random wagon icons in places that have a lot of free space (so the USA, Canada, Russia, China, etc.). I took the 8-bit wagon image and made that into a png. Since I’m using project linework, I just picked the placement of the wagons based off of the LandHexes POLYGONID. I used the point-transform function to scale the wagons to fit better. With more time, I might have it change scale with the zoom level.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail4.png&quot; alt=&quot;oregon trail 4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step Four: Labelling Isn’t That Scary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This tileset is my first foray into in depth CartoCSS labelling. It can be incredibly frightening when looking at source examples in Mapbox Studio and seeing how point labelling works, but the best part of my experience in Studio is the ability to always test things out.&lt;/p&gt;
+
+&lt;p&gt;I wanted to make my labelling more dynamic than last time, adapting to different zoom levels and having country labels scaled to their size and importance. #country_label, a layer built into Mapbox Streets, already has a scalerank built in so I can easily set up what can occur at different zoom levels, so country labels don’t overcrowd.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail5.png&quot; alt=&quot;oregon trail 5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I did this for each scale rank for zooms 3-5, just to make sure everything is operating dynamically and to also make it easier when I add in cities.&lt;/p&gt;
+
+&lt;p&gt;Speaking of cities, it’s about time to add those in.&lt;/p&gt;
+
+&lt;p&gt;I wanted to mimic the classic markers used by the Oregon Trail so I made custom pngs to place in the tileset. In Mapbox Studio, when I want to add a point for the city, I have to use the shield documentation kept neatly under the text docs. Adding a city name as a shield makes it easy to position the label and the shield together to fit well. Again, with Mapbox Streets, there’s an assigned ‘ldir’ that sets the label direction, making it easy to fit the shield and the label in the correct position.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail6.png&quot; alt=&quot;oregon trail 6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step Five: Enjoy Your Success!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;WOW! I finished another tileset. My next couple will be coming out shortly, as always they’re accessible through my &lt;a href=&quot;http://katiekowalsky.me&quot;&gt;website&lt;/a&gt; and are hosted on my &lt;a href=&quot;https://github.com/uwcartlab/CartoCSS_572&quot;&gt;github&lt;/a&gt; if you’re curious to look more in depth. If you’ve been reading these, &lt;strong&gt;THANK YOU! &lt;/strong&gt;The praise I’ve been getting is insane and has dumbfounded me, thanks for giving me inspiration to keep doing more.&lt;/p&gt;
+
+&lt;p&gt;If you’re working in CartoCSS and doing cool stuff, let me know! I’ve been building a gallery of amazing tilesets and would love to include yours. If you’ve ever considered doing CartoCSS, &lt;strong&gt;YOU CAN DO IT!&lt;/strong&gt; It’s amazing and fun and I’d love to answer any questions you might have.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate>
+        <link>http://katiekowalsky.me/posts/2015/04/10/Cartocss-two.html</link>
+        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/04/10/Cartocss-two.html</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
