@@ -131,6 +131,8 @@
     padding-top: ($spacing-unit/5);
     background-color: #fcfcfc;
     width: 100% !important;
+    position: relative;
+    bottom: 0;
     
     a {
         color: $green-color;
@@ -326,4 +328,17 @@ figure {
 
 .img-hover img:hover {
     opacity: .35;
+}
+
+.date {
+    float: right;
+    color: $text-color;
+}
+
+.post-break{
+    border-bottom: 1px solid #ddd;
+}
+
+.post {
+    padding: 7px 0px 7px 0px;
 }

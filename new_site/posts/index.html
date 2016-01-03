@@ -1,0 +1,17 @@
+---
+layout: default
+title: Blog
+permalink: /posts/
+---
+<h1>Words & Things: </h1>
+<p><i>(now locally sourced & Wordpress free)</i></p>
+<div>
+{% for post in site.posts %}
+    {% if post.type == 'blog' %}
+    <div class="post">
+        <a class="title" href="{{ site.base_url }}{{ post.url }}">{{ post.title }}<span class="date"> {{ post.date | date: "%B %e, %Y" }}</span></a>
+        <div class="post-break"></div>
+    </div>
+    {% endif %}
+{% endfor %}
+</div>
