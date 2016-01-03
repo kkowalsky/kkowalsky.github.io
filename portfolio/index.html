@@ -7,14 +7,14 @@ layout: default
     <center><h1>Katie Makes Maps!</h1></center>
 
     <div class="row">
-      {% for sample in site.samples %}
-        {% if sample.type == 'portfolio' %}
+      {% for post in site.posts %}
+        {% if post.type == 'portfolio' %}
         <div class="col-md-4 col-md-4">
             <div class="portfolio-thumbnail">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <figure class="img-hover"><img class="img-hover" src="{{ post.thumbnail }}" alt="{{ alt }}" class="img-responsive-portfolio-thumbnail-img" /></figure>
                 </a>
-                <h5 class="portfolio-caption">{{ sample.title }}</h5>
+                <h5 class="portfolio-caption">{{ post.title }}</h5>
             </div>
         </div>
         {% endif %}
