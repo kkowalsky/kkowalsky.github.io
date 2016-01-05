@@ -3,7 +3,7 @@ layout: blog
 type: blog
 title: CartoCSS Part Three
 ---
-<em>As part of my research under Robert Roth, I've been building course curriculum on CartoCSS through Mapbox Studio for UW-Madison. If you've seen my previous blogs on the subject, or seen the fruits of my labor on my <a href="www.katiekowalsky.me">website</a>, I'll be going through how to get started with CartoCSS and Mapbox Studio. I'll be walking through how to style in CartoCSS with my infamous Roy Liechtenstein tileset.  Before I begin, my work doesn't exist in a vacuum and wouldn't be possible without the support of Mamata Akella, Lyzi Diamond, Robert Roth, Tanya Buckingham, and many others. Many thanks.</em>
+<em>As part of my research under Robert Roth, I've been building course curriculum on CartoCSS through Mapbox Studio for UW-Madison. If you've seen my previous blogs on the subject, or seen the fruits of my labor on my <a href="http://www.katiekowalsky.me">website</a>, I'll be going through how to get started with CartoCSS and Mapbox Studio. I'll be walking through how to style in CartoCSS with my infamous Roy Liechtenstein tileset.  Before I begin, my work doesn't exist in a vacuum and wouldn't be possible without the support of Mamata Akella, Lyzi Diamond, Robert Roth, Tanya Buckingham, and many others. Many thanks.</em>
 
 <strong>Part One: WTF is CartoCSS? </strong>
 

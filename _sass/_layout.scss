@@ -13,24 +13,6 @@
     position: relative;
 }
 
-.brand {
-    height: 50%;
-}
-
-.site-title {
-    font-size: 26px;
-    font-weight: 300;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
-}
-
 .navbar-default .navbar-nav > li > a {
     color: $white !important;   
 }
@@ -43,6 +25,14 @@
 
 .navbar-brand a:focus, a:hover {
     background-color: rgba(192,205,25,0) !important;
+}
+
+.navbar-brand {
+    width: 200px;
+}
+
+.wrapper {
+    padding-top: 15%;
 }
 
 .current-page {
@@ -59,6 +49,10 @@
         display: none;
     }
 
+    .navbar-menu-button{
+        float: right;
+    }
+    
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
@@ -69,57 +63,24 @@
         }
     }
 
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: $spacing-unit / 2;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
+    .trigger {
+        clear: both;
+        display: none;
+    }
 
-        .navbar-brand {
-            visibility: hidden;
+    &:hover .trigger {
+        display: block;
+        padding-bottom: 5px;
+    }
+
+    .page-link {
+        display: block;
+        padding: 5px 10px;
+
+        &:not(:last-child) {
+            margin-right: 0;
         }
-        
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-
-            &:not(:last-child) {
-                margin-right: 0;
-            }
-            margin-left: 20px;
-        }
+        margin-left: 20px;
     }
 }
 
