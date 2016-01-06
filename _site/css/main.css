@@ -194,9 +194,26 @@ pre {
   /* For Firefox 3.6 to 15 */
   background: linear-gradient(to right, #c1cd23, #29abe2);
   /* Standard syntax (must be last) */
-  min-height: 50px !important;
   position: relative; }
 
+.navbar-brand img {
+  width: 40% !important; }
+
+@media screen and (max-width: 990px) {
+  .navbar-brand {
+    max-width: 350px !important; }
+
+  .page-content {
+    padding-top: 10%; } }
+@media screen and (max-width: 800px) {
+  .navbar-brand {
+    max-width: 300px !important; }
+
+  .page-content {
+    padding-top: 10%; } }
+@media screen and (max-width: 400px) {
+  .navbar-brand {
+    max-width: 250px !important; } }
 .navbar-default .navbar-nav > li > a {
   color: #fff !important; }
 
@@ -208,27 +225,19 @@ pre {
 .navbar-brand a:focus, a:hover {
   background-color: rgba(192, 205, 25, 0) !important; }
 
-.navbar-brand {
-  width: 200px; }
-
-.wrapper {
-  padding-top: 15%; }
-
 .current-page {
   color: #111;
   text-decoration: none;
   background-color: #C1CD23; }
 
 .site-nav {
-  float: right;
-  line-height: 50px; }
+  float: right; }
   .site-nav .menu-icon {
     display: none; }
   .site-nav .navbar-menu-button {
     float: right; }
   .site-nav .page-link {
-    color: #111;
-    line-height: 1.5; }
+    color: #111; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
   .site-nav .trigger {
@@ -341,8 +350,7 @@ pre {
 
 .post-title {
   font-size: 42px;
-  letter-spacing: -1px;
-  line-height: 1; }
+  letter-spacing: -1px; }
   @media screen and (max-width: 1000px) {
     .post-title {
       font-size: 36px; } }

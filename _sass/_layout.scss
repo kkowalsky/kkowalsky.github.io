@@ -7,14 +7,41 @@
     background: -o-linear-gradient(right, #c1cd23 , #29abe2); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(right, #c1cd23 , #29abe2); /* For Firefox 3.6 to 15 */
     background: linear-gradient(to right, #c1cd23 , #29abe2); /* Standard syntax (must be last) */
-    min-height: 50px !important;
-
+    
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
+.navbar-brand img {
+    width: 40% !important;
+}
+
+@include media-query($on-tinylaptop) {
+    .navbar-brand {
+        max-width: 350px !important;
+    }
+    .page-content {
+        padding-top: 10%;
+    }
+}
+
+@include media-query($on-smallscreen) {
+    .navbar-brand {
+        max-width: 300px !important;
+    }
+    .page-content {
+        padding-top: 10%;
+    }
+}
+
+@include media-query($on-tinypalm) {
+    .navbar-brand {
+        max-width: 250px !important;
+    }
+}
+
 .navbar-default .navbar-nav > li > a {
-    color: $white !important;   
+    color: $white !important; 
 }
 
 .navbar-default .navbar-nav > li > a:hover, a:focus {
@@ -36,7 +63,6 @@
 
 .site-nav {
     float: right;
-    line-height: 50px;
 
     .menu-icon {
         display: none;
@@ -48,8 +74,6 @@
     
     .page-link {
         color: $text-color;
-        line-height: $base-line-height;
-
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
@@ -210,7 +234,6 @@
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
-    line-height: 1;
 
     @include media-query($on-laptop) {
         font-size: 36px;
