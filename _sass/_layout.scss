@@ -13,32 +13,27 @@
 }
 
 .navbar-brand img {
-    width: 40% !important;
+    width: 40%;
 }
 
 @include media-query($on-tinylaptop) {
     .navbar-brand {
-        max-width: 350px !important;
+        width: 350px;
     }
     .page-content {
         padding-top: 10%;
     }
 }
 
-@include media-query($on-smallscreen) {
+@include media-query($on-palm) {
     .navbar-brand {
-        max-width: 300px !important;
+        width: 70% !important;
     }
     .page-content {
-        padding-top: 10%;
+        padding-top: 20%;
     }
 }
 
-@include media-query($on-tinypalm) {
-    .navbar-brand {
-        max-width: 250px !important;
-    }
-}
 
 .navbar-default .navbar-nav > li > a {
     color: $white !important; 
