@@ -10,7 +10,7 @@ layout: default
       {% for post in site.posts %}
         {% if post.type == 'portfolio' %}
         <div class="col-md-4">
-            <div class="portfolio-thumbnail">
+            <div class="portfolio-thumbnail" style="display: inline-block;">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <figure class="img-hover"><img class="img-hover" src="{{ post.thumbnail }}" alt="{{ alt }}" class="img-responsive-portfolio-thumbnail-img" /></figure>
                 </a>
