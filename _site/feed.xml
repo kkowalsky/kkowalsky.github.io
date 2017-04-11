@@ -4,11 +4,54 @@
     <title>Katie Kowalsky</title>
     <description>Katie Kowalsky is a cartographer, front-end web developer, and cheese enthusiast hailing from the great state of Wisconsin. Her passion for maps lends itself to talking, teaching, and even dancing about cartography.
 </description>
-    <link>http://katiekowalsky.me/</link>
-    <atom:link href="http://katiekowalsky.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jan 2016 14:55:17 -0600</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2016 14:55:17 -0600</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Apr 2017 17:09:17 -0700</pubDate>
+    <lastBuildDate>Mon, 10 Apr 2017 17:09:17 -0700</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Zines, zines, zines</title>
+        <description>&lt;p&gt;I’ve been incredibly busy in the past 9 months (!!!) since I last blogged, my bad. In that time, I’ve:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;finished UW-Madison’s new campus basemap&lt;/li&gt;
+  &lt;li&gt;Graduated from UW-Madison&lt;/li&gt;
+  &lt;li&gt;Moved to San Francisco&lt;/li&gt;
+  &lt;li&gt;Started working at Mapzen&lt;/li&gt;
+  &lt;li&gt;Finally beat my grandfather at Scrabble&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s been a crazy year so far, but working at Mapzen has been such a rewarding part of my year so far. One of my projects I started on earlier this year for preparation for the State of the Map US conference was to find a way to talk about how Mapzen Search, our geocoding service, works. Since the actual nuts and bolts of how a geographic search box is new to me, I made a zine!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://katiekowalsky.me/assets/talks/search-zine.pdf&quot;&gt;View it in its full glory!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Oct 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/posts/2016/10/18/zines.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2016/10/18/zines.html</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>UW-Madison Campus Map</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://map.wisc.edu/&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;../../../../assets/portfolio/fulls/campus-map.png&quot; alt=&quot;UW Campus Map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of my last projects at the UW-Madison Cartography Lab was completely redesigning the basemap and UX interface of the campus map, initially built in Tilemill using CartoCSS. I upgraded the basemap rendering to be more efficient, created a new aesthetic for the map that reflected the mood of the concurrent marketing campaign at UW-Madison, and made recommendations for the interface look and feel.&lt;/p&gt;
+
+&lt;p&gt;View the &lt;a href=&quot;http://map.wisc.edu/&quot; target=&quot;blank&quot;&gt;UW Campus Map&lt;/a&gt; in its full glory.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 May 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/posts/2016/05/31/Campus-map.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2016/05/31/Campus-map.html</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
     
       <item>
         <title>New Website &amp; Blog!</title>
@@ -34,9 +77,9 @@
 
 &lt;p&gt;That’s one of the reasons for my starterpack that I do every year… It’s a chance for me to catalogue what synthesized ‘Katie Kowalsky’ at that particular moment. I’ve never loved keeping a diary (except for travel logs) so I view this as a way to way my design sensibilities grow and become even more personal.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 03 Jan 2016 00:00:00 -0600</pubDate>
-        <link>http://katiekowalsky.me/posts/2016/01/03/New-Website.html</link>
-        <guid isPermaLink="true">http://katiekowalsky.me/posts/2016/01/03/New-Website.html</guid>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/2016/01/03/New-Website.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2016/01/03/New-Website.html</guid>
         
         
         <category>posts</category>
@@ -51,9 +94,9 @@
 
 &lt;p&gt;Inspired by illustrations in Vulture Magazine, I decided to turn myself into a paper doll. Using Adobe Photoshop and Illustrator, I digitized myself and items my friends and I consider to be my “essentials”. I started this in 2014, and decided to duplicate myself again for 2015. I like to think of this as an exercise on personal branding and watching personal growth happen. These are also fun on a technical side, as I get to work on a drawing tablet and also free hand drawing on my laptop’s trackpad.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 01 Jan 2016 00:00:00 -0600</pubDate>
-        <link>http://katiekowalsky.me/posts/2016/01/01/starterpack.html</link>
-        <guid isPermaLink="true">http://katiekowalsky.me/posts/2016/01/01/starterpack.html</guid>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/2016/01/01/starterpack.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2016/01/01/starterpack.html</guid>
         
         
         <category>posts</category>
@@ -70,9 +113,9 @@
 
 &lt;p&gt;You can read about my process for preparing DEM for use in blender on my &lt;a href=&quot;https://kowalskycartography.wordpress.com/2015/12/02/preparing-your-dem/&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 13 Dec 2015 00:00:00 -0600</pubDate>
-        <link>http://katiekowalsky.me/posts/2015/12/13/vermont-map.html</link>
-        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/12/13/vermont-map.html</guid>
+        <pubDate>Sun, 13 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/2015/12/13/vermont-map.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2015/12/13/vermont-map.html</guid>
         
         
         <category>posts</category>
@@ -141,26 +184,9 @@
 
 &lt;p&gt;To solve this terrible problem, the (hopefully) only step required is to open the DEM.tif in Photoshop and ‘Save As’ a new tiff (DEM2.tif for instance). This will clean out any junk left from the export from ArcGIS and allow you to easily import to make beautiful terrain in Blender!!&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 Dec 2015 00:00:00 -0600</pubDate>
-        <link>http://katiekowalsky.me/posts/2015/12/03/Preparing-DEM.html</link>
-        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/12/03/Preparing-DEM.html</guid>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>Unemployment Map</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../../../../assets/portfolio/fulls/comic_map.png&quot; alt=&quot;Unemployment Map&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I made this map of unemployment map of the US as a challenge in an advanced cartography course at UW-Madison. The exercise required each student to design the map using a different, assigned artistic/emotional inspiration. I had the emotion of “excited” so I created the map using the most exciting graphic design style I know: comic art. This map challenges the notions of what typical moods should be used on a certain topic but doesn’t necessarily reflect my personal views on unemployment {disclaimer}. I used ArcGIS and Adobe Illustrator to complete this.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Nov 2015 00:00:00 -0600</pubDate>
-        <link>http://katiekowalsky.me/posts/2015/11/17/unemployment-map.html</link>
-        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/11/17/unemployment-map.html</guid>
+        <pubDate>Thu, 03 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/2015/12/03/Preparing-DEM.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2015/12/03/Preparing-DEM.html</guid>
         
         
         <category>posts</category>
@@ -177,16 +203,16 @@
 
 &lt;p&gt;As much as I rattled on about loops, booleans, and parameters and taught my class how to code, the experience taught me a lot as well. Here are some of the most important lessons I learned from working at Girls Who Code:&lt;/p&gt;
 &lt;ul&gt;
-	&lt;li&gt;Imposter Syndrome &lt;strong&gt;&lt;em&gt;sucks&lt;/em&gt;&lt;/strong&gt;. Every one of my students felt this at times. Coding is a &lt;em&gt;very &lt;/em&gt;hard thing to learn and it&#39;s natural for students who are used to achieving at typical high school subjects to feel like a failure when they keep making mistakes in their code. Transitioning from the high school mindset of failure being bad, we had to spend time getting the girls used to the fact that coding is a series of making mistakes over and over until you get it right (the coder&#39;s algorithm I suppose).  When you test your code and there are a ton of errors, it&#39;s natural to feel like an imposter. Heck- I have to combat imposter syndrome every day and I&#39;ve fought tooth and nail to get to where I am in coding. The good news is that unlike my Intro to Programming class in college, we at Girls Who Code spend a lot of time making sure that the students see that every mistake is also another lesson learned.&lt;/li&gt;
-	&lt;li&gt;What also helped to combat imposter syndrome and make our class fun and energetic is the type of space we had. I&#39;ve worked in spaces like this before (the UW Cartography Lab mostly), but I think this was the first time for most of our students to work in an environment where risk is encouraged, mistakes are gonna be made, and every minute of coding can also be a dance party. The energy of our classroom made it &lt;strong&gt;so&lt;/strong&gt; much easier to fight imposter syndrome and teach code. The pressure I&#39;ve felt in silent programming labs and nervousness I&#39;ve felt to ask questions is immense. The fact that we had a head teacher and two TAs with 20 people was also immensely helpful. We could easily move around the classroom, checking in with students and helping where needed.&lt;/li&gt;
-	&lt;li&gt;Another thing that made my GWC class radically different than my experience with programming in college is the diversity. While we&#39;re all women learning to code, every one of my students came from a different background. The economic, racial, geographic, and cultural diversity we had was truly outstanding. I also loved that we had experience levels from &#39;Never Seen Code&#39; to &#39;I LOVE JAVA!!&#39;, which meant that girls could work together and learn things from one another (the curriculum is also set up so that by Week 3, even AP Computer Science students are learning new material)&lt;/li&gt;
-	&lt;li&gt;Something that was really hard to engrain in our students is &#39;function before form&#39;. I get it- I want to design something BEAUTIFUL before it&#39;s even working. &lt;a href=&quot;https://twitter.com/garlowNPR&quot; target=&quot;_blank&quot;&gt;Joanne Garlow&lt;/a&gt;, the lead developer at NPR talked to us this summer about the &#39;sashimi&#39; principle. Just like the food, make your product the simplest version of itself. That was something we really stressed when doing final projects which was such a great lesson to learn.&lt;/li&gt;
-	&lt;li&gt;To follow up on that last point, I think it&#39;s also really important to not only teach the concept of &#39;function before form&#39; but teach the form part! So many CS programs don&#39;t talk about front-end development or interface design. 100% of the reason I&#39;m a cartographer and not strictly a programmer is because I also love design and care about UI/UX. I&#39;m so glad we do a lot of design in HTML/CSS and jQuery to let the girls know that coding isn&#39;t just nuts and bolts, it&#39;s immensely creative as well.&lt;/li&gt;
+	&lt;li&gt;Imposter Syndrome &lt;strong&gt;&lt;em&gt;sucks&lt;/em&gt;&lt;/strong&gt;. Every one of my students felt this at times. Coding is a &lt;em&gt;very &lt;/em&gt;hard thing to learn and it's natural for students who are used to achieving at typical high school subjects to feel like a failure when they keep making mistakes in their code. Transitioning from the high school mindset of failure being bad, we had to spend time getting the girls used to the fact that coding is a series of making mistakes over and over until you get it right (the coder's algorithm I suppose).  When you test your code and there are a ton of errors, it's natural to feel like an imposter. Heck- I have to combat imposter syndrome every day and I've fought tooth and nail to get to where I am in coding. The good news is that unlike my Intro to Programming class in college, we at Girls Who Code spend a lot of time making sure that the students see that every mistake is also another lesson learned.&lt;/li&gt;
+	&lt;li&gt;What also helped to combat imposter syndrome and make our class fun and energetic is the type of space we had. I've worked in spaces like this before (the UW Cartography Lab mostly), but I think this was the first time for most of our students to work in an environment where risk is encouraged, mistakes are gonna be made, and every minute of coding can also be a dance party. The energy of our classroom made it &lt;strong&gt;so&lt;/strong&gt; much easier to fight imposter syndrome and teach code. The pressure I've felt in silent programming labs and nervousness I've felt to ask questions is immense. The fact that we had a head teacher and two TAs with 20 people was also immensely helpful. We could easily move around the classroom, checking in with students and helping where needed.&lt;/li&gt;
+	&lt;li&gt;Another thing that made my GWC class radically different than my experience with programming in college is the diversity. While we're all women learning to code, every one of my students came from a different background. The economic, racial, geographic, and cultural diversity we had was truly outstanding. I also loved that we had experience levels from 'Never Seen Code' to 'I LOVE JAVA!!', which meant that girls could work together and learn things from one another (the curriculum is also set up so that by Week 3, even AP Computer Science students are learning new material)&lt;/li&gt;
+	&lt;li&gt;Something that was really hard to engrain in our students is 'function before form'. I get it- I want to design something BEAUTIFUL before it's even working. &lt;a href=&quot;https://twitter.com/garlowNPR&quot; target=&quot;_blank&quot;&gt;Joanne Garlow&lt;/a&gt;, the lead developer at NPR talked to us this summer about the 'sashimi' principle. Just like the food, make your product the simplest version of itself. That was something we really stressed when doing final projects which was such a great lesson to learn.&lt;/li&gt;
+	&lt;li&gt;To follow up on that last point, I think it's also really important to not only teach the concept of 'function before form' but teach the form part! So many CS programs don't talk about front-end development or interface design. 100% of the reason I'm a cartographer and not strictly a programmer is because I also love design and care about UI/UX. I'm so glad we do a lot of design in HTML/CSS and jQuery to let the girls know that coding isn't just nuts and bolts, it's immensely creative as well.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 16 Sep 2015 00:00:00 -0500</pubDate>
-        <link>http://katiekowalsky.me/posts/2015/09/16/Girls-Who-Code.html</link>
-        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/09/16/Girls-Who-Code.html</guid>
+        <pubDate>Wed, 16 Sep 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/posts/2015/09/16/Girls-Who-Code.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2015/09/16/Girls-Who-Code.html</guid>
         
         
         <category>posts</category>
@@ -302,9 +328,9 @@ The first things I like to do are create global variables so I don’t have to u
 
 &lt;p&gt;The best way I learned CartoCSS was through recreating Roy Liechtenstein’s pop art work as a map. Try something ridiculous in Mapbox Studio, have fun with designing (remember that cartography isn’t a serious science). Feel free to tweet me &lt;a href=&quot;http://twitter.com/katiekowalsky&quot;&gt;@katiekowalsky&lt;/a&gt; with any questions! If you’re in DC this month, I’ll be teaching a &lt;a href=&quot;http://twitter.com/maptimeDC&quot;&gt;MaptimeDC &lt;/a&gt;on this July 16th and a &lt;a href=&quot;https://twitter.com/MaptimeMadison&quot;&gt;MaptimeMadison&lt;/a&gt; on this sometime in September. If you’re going to &lt;a href=&quot;http://nacis.org/2015&quot;&gt;NACIS&lt;/a&gt;, I’ll be teaching this hopefully in Minneapolis in October!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 25 May 2015 00:00:00 -0500</pubDate>
-        <link>http://katiekowalsky.me/posts/2015/05/25/cartocss-three.html</link>
-        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/05/25/cartocss-three.html</guid>
+        <pubDate>Mon, 25 May 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/posts/2015/05/25/cartocss-three.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2015/05/25/cartocss-three.html</guid>
         
         
         <category>posts</category>
@@ -327,12 +353,12 @@ The first things I like to do are create global variables so I don’t have to u
 	&lt;li&gt;Went to NACIS for the first time! (Met some of my carto-crushes and learned about my new favorite hobby, CartoCSS)&lt;/li&gt;
 	&lt;li&gt;Co-founded &lt;a href=&quot;maptime.io/madison&quot; target=&quot;_blank&quot;&gt;Maptime Madison&lt;/a&gt; with Robin Tolochko and Rashauna Mead&lt;/li&gt;
 	&lt;li&gt;Created a blog to remember all of this stuff&lt;/li&gt;
-	&lt;li&gt;Tackled leaflet.js, AJAX, jQuery &amp;amp; D3 in Rob Roth&#39;s interactive cartography class&lt;/li&gt;
+	&lt;li&gt;Tackled leaflet.js, AJAX, jQuery &amp;amp; D3 in Rob Roth's interactive cartography class&lt;/li&gt;
 	&lt;li&gt;Did professional research under &lt;a href=&quot;http://twitter.com/roberteroth&quot; target=&quot;_blank&quot;&gt;Rob Roth&lt;/a&gt; on &lt;a href=&quot;mapbox.com&quot; target=&quot;_blank&quot;&gt;Mapbox Studio&lt;/a&gt; and CartoCSS&lt;/li&gt;
 	&lt;li&gt;Made some ridiculously cool maps (one of which made me famous for 15 mins) in CartoCSS&lt;/li&gt;
 	&lt;li&gt;Got a phenomenal TAship with &lt;a href=&quot;https://girlswhocode.com/&quot; target=&quot;_blank&quot;&gt;Girls Who Code&lt;/a&gt; in DC for the summer!&lt;/li&gt;
 	&lt;li&gt;Fell in love with &lt;a href=&quot;http://openstreetmap.org&quot; target=&quot;_blank&quot;&gt;Open Street Map&lt;/a&gt; &amp;amp; became a member&lt;/li&gt;
-	&lt;li&gt;Went from 120 to 625 Twitter followers (my brother would argue that that&#39;s valuable)&lt;/li&gt;
+	&lt;li&gt;Went from 120 to 625 Twitter followers (my brother would argue that that's valuable)&lt;/li&gt;
 	&lt;li&gt;Learned PostgreSQL/PostGIS for bo$$ data purposes&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -345,9 +371,9 @@ In fact, I like to steal a quote that Amy Poehler added in the last episode of P
 
 &lt;p&gt;&lt;em&gt;As a side note:&lt;/em&gt; I’ll be publishing a blog tutorial on CartoCSS shortly, I just needed to be nostalgic for a moment. Also, come to NACIS to see me present on it or State of the Map US to say hi. I’ll also be live-blogging and live-tweeting the first Maptime Summit immediately after, so follow along on the interwebs.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 15 May 2015 00:00:00 -0500</pubDate>
-        <link>http://katiekowalsky.me/posts/2015/05/15/year-in-review.html</link>
-        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/05/15/year-in-review.html</guid>
+        <pubDate>Fri, 15 May 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/posts/2015/05/15/year-in-review.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2015/05/15/year-in-review.html</guid>
         
         
         <category>posts</category>
@@ -366,74 +392,9 @@ In fact, I like to steal a quote that Amy Poehler added in the last episode of P
 
 &lt;p&gt;Or read my series of blogs on making tilesets &lt;a href=&quot;/posts/2015/05/25/cartocss-three.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
-        <link>http://katiekowalsky.me/posts/2015/05/01/lichtenstein-map.html</link>
-        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/05/01/lichtenstein-map.html</guid>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>CartoCSS Part Two</title>
-        <description>&lt;p&gt;For part two of my series in advanced CartoCSS vector tileset design, I’m working on another tileset based off of the classic video game ‘The Oregon Trail’. I’ve always loved the 8-bit style of the map in the game and after seeing a &lt;a href=&quot;https://www.mapbox.com/blog/super-mario-with-studio/&quot;&gt;Super Mario tileset&lt;/a&gt; by Duncan Graham, I figured this would be my next foray into Mapbox Studio.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail1.png&quot; alt=&quot;oregon trail 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This tileset is pretty simple in comparison to my previous set. The simplicity of the background and color scheme make point locations and typeface decisions much more important. As the main point of this map is to be referential, typeface plays a critical role in informing the reader where everything is.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step One: Download Source&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I wanted to do something special, as a nod to the generalized style of maps used in video games. &lt;a href=&quot;http://projectlinework.org&quot;&gt;Project Linework&lt;/a&gt; is a great vector shapefile source for generalized linework. I’ve always wanted to use Daniel Huffman’s war games shapefile which are a fantastic hexagonal abstraction of the world.&lt;/p&gt;
-
-&lt;p&gt;After downloading the source from Project Linework, the shapefile has to be uploaded to Mapbox Studio. Since it’s such a big file at zoom 0, and I plan on constraining the zoom level anyway, so in order to upload it to mapbox and stay under the 500MB limit, I have to constrain it first on the source side.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail2.png&quot; alt=&quot;oregon trail 2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This seems to have added a gap in my tileset near the IDL, but since this map is meant to be at a zoom level &amp;gt; 3, it’s unlikely that this will be of any concern.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step Two: Adding Textures &amp;amp; Basic Design&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the classic features of an 8-bit video game (and of the Oregon Trail maps) is the grid texture used instead of color for water. I found a grid texture and set the water polygon to be that pattern, to mimic it as best as possible.&lt;/p&gt;
-
-&lt;p&gt;To add some color, I set my lake hex shapefile to be blue to match the classic bright blue of the sample maps and added a polygon-gamma setting of .2 to have some overlap of the lakes and not have awkward gaps.&lt;/p&gt;
-
-&lt;p&gt;With CartoCSS, there’s a lot of zooming in and out to figure out what needs to change at different zoom levels. While the grid texture will adjust at any zoom level, the thickness of the line-widths will look better if they’re adjusted.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail3.png&quot; alt=&quot;oregon trail 3&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt; Step Three: Having Fun With It&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;To make this map more fun, I decided to add random wagon icons in places that have a lot of free space (so the USA, Canada, Russia, China, etc.). I took the 8-bit wagon image and made that into a png. Since I’m using project linework, I just picked the placement of the wagons based off of the LandHexes POLYGONID. I used the point-transform function to scale the wagons to fit better. With more time, I might have it change scale with the zoom level.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail4.png&quot; alt=&quot;oregon trail 4&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step Four: Labelling Isn’t That Scary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This tileset is my first foray into in depth CartoCSS labelling. It can be incredibly frightening when looking at source examples in Mapbox Studio and seeing how point labelling works, but the best part of my experience in Studio is the ability to always test things out.&lt;/p&gt;
-
-&lt;p&gt;I wanted to make my labelling more dynamic than last time, adapting to different zoom levels and having country labels scaled to their size and importance. #country_label, a layer built into Mapbox Streets, already has a scalerank built in so I can easily set up what can occur at different zoom levels, so country labels don’t overcrowd.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail5.png&quot; alt=&quot;oregon trail 5&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I did this for each scale rank for zooms 3-5, just to make sure everything is operating dynamically and to also make it easier when I add in cities.&lt;/p&gt;
-
-&lt;p&gt;Speaking of cities, it’s about time to add those in.&lt;/p&gt;
-
-&lt;p&gt;I wanted to mimic the classic markers used by the Oregon Trail so I made custom pngs to place in the tileset. In Mapbox Studio, when I want to add a point for the city, I have to use the shield documentation kept neatly under the text docs. Adding a city name as a shield makes it easy to position the label and the shield together to fit well. Again, with Mapbox Streets, there’s an assigned ‘ldir’ that sets the label direction, making it easy to fit the shield and the label in the correct position.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../../../assets/img/blog/oregontrail6.png&quot; alt=&quot;oregon trail 6&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step Five: Enjoy Your Success!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;WOW! I finished another tileset. My next couple will be coming out shortly, as always they’re accessible through my &lt;a href=&quot;http://katiekowalsky.me&quot;&gt;website&lt;/a&gt; and are hosted on my &lt;a href=&quot;https://github.com/uwcartlab/CartoCSS_572&quot;&gt;github&lt;/a&gt; if you’re curious to look more in depth. If you’ve been reading these, &lt;strong&gt;THANK YOU! &lt;/strong&gt;The praise I’ve been getting is insane and has dumbfounded me, thanks for giving me inspiration to keep doing more.&lt;/p&gt;
-
-&lt;p&gt;If you’re working in CartoCSS and doing cool stuff, let me know! I’ve been building a gallery of amazing tilesets and would love to include yours. If you’ve ever considered doing CartoCSS, &lt;strong&gt;YOU CAN DO IT!&lt;/strong&gt; It’s amazing and fun and I’d love to answer any questions you might have.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate>
-        <link>http://katiekowalsky.me/posts/2015/04/10/Cartocss-two.html</link>
-        <guid isPermaLink="true">http://katiekowalsky.me/posts/2015/04/10/Cartocss-two.html</guid>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/posts/2015/05/01/lichtenstein-map.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2015/05/01/lichtenstein-map.html</guid>
         
         
         <category>posts</category>
