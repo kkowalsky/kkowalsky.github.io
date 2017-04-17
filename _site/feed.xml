@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Apr 2017 17:16:35 -0700</pubDate>
-    <lastBuildDate>Mon, 10 Apr 2017 17:16:35 -0700</lastBuildDate>
+    <pubDate>Mon, 17 Apr 2017 11:55:30 -0500</pubDate>
+    <lastBuildDate>Mon, 17 Apr 2017 11:55:30 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -25,7 +25,7 @@
 
 &lt;p&gt;&lt;a href=&quot;http://katiekowalsky.me/assets/talks/search-zine.pdf&quot;&gt;View it in its full glory!&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 18 Oct 2016 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 18 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/2016/10/18/zines.html</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2016/10/18/zines.html</guid>
         
@@ -44,7 +44,7 @@
 
 &lt;p&gt;View the &lt;a href=&quot;http://map.wisc.edu/&quot; target=&quot;blank&quot;&gt;UW Campus Map&lt;/a&gt; in its full glory.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 31 May 2016 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 31 May 2016 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/2016/05/31/Campus-map.html</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2016/05/31/Campus-map.html</guid>
         
@@ -77,7 +77,7 @@
 
 &lt;p&gt;That’s one of the reasons for my starterpack that I do every year… It’s a chance for me to catalogue what synthesized ‘Katie Kowalsky’ at that particular moment. I’ve never loved keeping a diary (except for travel logs) so I view this as a way to way my design sensibilities grow and become even more personal.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 03 Jan 2016 00:00:00 -0800</pubDate>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/posts/2016/01/03/New-Website.html</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2016/01/03/New-Website.html</guid>
         
@@ -94,7 +94,7 @@
 
 &lt;p&gt;Inspired by illustrations in Vulture Magazine, I decided to turn myself into a paper doll. Using Adobe Photoshop and Illustrator, I digitized myself and items my friends and I consider to be my “essentials”. I started this in 2014, and decided to duplicate myself again for 2015. I like to think of this as an exercise on personal branding and watching personal growth happen. These are also fun on a technical side, as I get to work on a drawing tablet and also free hand drawing on my laptop’s trackpad.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/posts/2016/01/01/starterpack.html</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2016/01/01/starterpack.html</guid>
         
@@ -113,7 +113,7 @@
 
 &lt;p&gt;You can read about my process for preparing DEM for use in blender on my &lt;a href=&quot;https://kowalskycartography.wordpress.com/2015/12/02/preparing-your-dem/&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 13 Dec 2015 00:00:00 -0800</pubDate>
+        <pubDate>Sun, 13 Dec 2015 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/posts/2015/12/13/vermont-map.html</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2015/12/13/vermont-map.html</guid>
         
@@ -184,7 +184,7 @@
 
 &lt;p&gt;To solve this terrible problem, the (hopefully) only step required is to open the DEM.tif in Photoshop and ‘Save As’ a new tiff (DEM2.tif for instance). This will clean out any junk left from the export from ArcGIS and allow you to easily import to make beautiful terrain in Blender!!&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 Dec 2015 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 03 Dec 2015 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/posts/2015/12/03/Preparing-DEM.html</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2015/12/03/Preparing-DEM.html</guid>
         
@@ -210,7 +210,7 @@
 	&lt;li&gt;To follow up on that last point, I think it's also really important to not only teach the concept of 'function before form' but teach the form part! So many CS programs don't talk about front-end development or interface design. 100% of the reason I'm a cartographer and not strictly a programmer is because I also love design and care about UI/UX. I'm so glad we do a lot of design in HTML/CSS and jQuery to let the girls know that coding isn't just nuts and bolts, it's immensely creative as well.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 16 Sep 2015 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 16 Sep 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/2015/09/16/Girls-Who-Code.html</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2015/09/16/Girls-Who-Code.html</guid>
         
@@ -328,7 +328,7 @@ The first things I like to do are create global variables so I don’t have to u
 
 &lt;p&gt;The best way I learned CartoCSS was through recreating Roy Liechtenstein’s pop art work as a map. Try something ridiculous in Mapbox Studio, have fun with designing (remember that cartography isn’t a serious science). Feel free to tweet me &lt;a href=&quot;http://twitter.com/katiekowalsky&quot;&gt;@katiekowalsky&lt;/a&gt; with any questions! If you’re in DC this month, I’ll be teaching a &lt;a href=&quot;http://twitter.com/maptimeDC&quot;&gt;MaptimeDC &lt;/a&gt;on this July 16th and a &lt;a href=&quot;https://twitter.com/MaptimeMadison&quot;&gt;MaptimeMadison&lt;/a&gt; on this sometime in September. If you’re going to &lt;a href=&quot;http://nacis.org/2015&quot;&gt;NACIS&lt;/a&gt;, I’ll be teaching this hopefully in Minneapolis in October!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 25 May 2015 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 25 May 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/2015/05/25/cartocss-three.html</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2015/05/25/cartocss-three.html</guid>
         
@@ -371,7 +371,7 @@ In fact, I like to steal a quote that Amy Poehler added in the last episode of P
 
 &lt;p&gt;&lt;em&gt;As a side note:&lt;/em&gt; I’ll be publishing a blog tutorial on CartoCSS shortly, I just needed to be nostalgic for a moment. Also, come to NACIS to see me present on it or State of the Map US to say hi. I’ll also be live-blogging and live-tweeting the first Maptime Summit immediately after, so follow along on the interwebs.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 15 May 2015 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 15 May 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/2015/05/15/year-in-review.html</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2015/05/15/year-in-review.html</guid>
         
@@ -392,7 +392,7 @@ In fact, I like to steal a quote that Amy Poehler added in the last episode of P
 
 &lt;p&gt;Or read my series of blogs on making tilesets &lt;a href=&quot;/posts/2015/05/25/cartocss-three.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/2015/05/01/lichtenstein-map.html</link>
         <guid isPermaLink="true">http://localhost:4000/posts/2015/05/01/lichtenstein-map.html</guid>
         

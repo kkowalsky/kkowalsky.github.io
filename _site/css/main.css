@@ -376,7 +376,7 @@ pre {
 
 .portfolio-thumbnail {
   margin-top: 10px;
-  display: inline-block;}
+  display: inline-flex; }
 
 .thumbnail {
   margin-bottom: 0; }
