@@ -4,13 +4,13 @@ layout: default
 <div class="container" style="width:auto;">
   <div class="home">
 
-    <center><h1>Katie Makes Maps!</h1></center>
+    <center><h1>Portfolio</h1></center>
 
     <div class="row">
       {% for post in site.posts %}
-        {% if post.type == 'portfolio' %}
-        <div class="col-md-4" style="display: inline-block;">
-            <div class="portfolio-thumbnail" style="display: inline-block;">
+        {% if post.type == 'portfolio' %} 
+        <div class="col-md-4" col-sm-6">
+            <div class="portfolio-thumbnail">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <figure class="img-hover"><img class="img-hover" src="{{ post.thumbnail }}" alt="{{ alt }}" class="img-responsive-portfolio-thumbnail-img" /></figure>
                 </a>
