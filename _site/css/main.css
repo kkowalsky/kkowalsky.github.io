@@ -375,8 +375,7 @@ pre {
   text-align: center; }
 
 .portfolio-thumbnail {
-  margin-top: 10px;
-  display: inline-flex; }
+  margin-top: 10px; }
 
 .thumbnail {
   margin-bottom: 0; }
@@ -405,7 +404,7 @@ figure {
 .img-hover img {
   opacity: 1;
   width: 250px;
-  height: auto; }
+  height: 250px; }
 
 .img-hover img:hover {
   opacity: .35; }

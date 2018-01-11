@@ -2,12 +2,12 @@
  * Site header
  */
 .site-header {
-    background: #29abe2; /* For browsers that do not support gradients */    
+    background: #29abe2; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left, #c1cd23 , #29abe2); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(right, #c1cd23 , #29abe2); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(right, #c1cd23 , #29abe2); /* For Firefox 3.6 to 15 */
     background: linear-gradient(to right, #c1cd23 , #29abe2); /* Standard syntax (must be last) */
-    
+
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -36,7 +36,7 @@
 
 
 .navbar-default .navbar-nav > li > a {
-    color: $white !important; 
+    color: $white !important;
 }
 
 .navbar-default .navbar-nav > li > a:hover, a:focus {
@@ -66,7 +66,7 @@
     .navbar-menu-button{
         float: right;
     }
-    
+
     .page-link {
         color: $text-color;
         // Gaps between nav items, but not on the last one
@@ -110,12 +110,12 @@
     width: 100% !important;
     position: relative;
     bottom: 0;
-    
+
     a {
         color: $green-color;
         text-decoration: none;
     }
-    
+
     a:link {
         color: $green-color;
     }
@@ -240,7 +240,7 @@
 
     h2 {
         font-size: 32px;
-        
+
         @include media-query($on-laptop) {
             font-size: 28px;
         }
@@ -248,7 +248,7 @@
 
     h3 {
         font-size: 26px;
-        
+
         @include media-query($on-laptop) {
             font-size: 22px;
         }
@@ -286,12 +286,12 @@
 }
 
 figure {
-    background: #29abe2; /* For browsers that do not support gradients */    
+    background: #29abe2; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left top, #c1cd23 , #29abe2); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(bottom right, #c1cd23 , #29abe2); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(bottom right, #c1cd23 , #29abe2); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to bottom right, #c1cd23 , #29abe2); /* Standard syntax (must be last) */ 
-    
+    background: linear-gradient(to bottom right, #c1cd23 , #29abe2); /* Standard syntax (must be last) */
+
     width: 250px;
     height: auto;
 }
@@ -299,7 +299,7 @@ figure {
 .img-hover img {
     opacity: 1;
     width: 250px;
-    height: auto;
+    height: 250px;
 }
 
 .img-hover img:hover {
